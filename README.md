@@ -54,6 +54,7 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [Metaverse Lab](https://hackaday.io/project/5077/logs) - Experiments with VR/AR, Neural Networks, and 3D Internet
 - [PUDDLES to OASIS](https://www.wired.com/story/ready-player-one-vr-metaverse/) - Wired article on connecting disparate virtual worlds
 - [A Multiverse, not the metaverse](https://techcrunch.com/2020/02/25/virtual-worlds-intro/) - 5 Part series on Multiversing by Techcrunch
+- [The library inside Minecraft and our future in the Metaverse](https://www.domusweb.it/en/news/gallery/2020/03/16/the-library-inside-minecraft-and-our-future-in-the-metaverse.html) - The Uncensored Library
 - [The Metaverse by Matthew Ball](https://www.matthewball.vc/all/themetaverse) - What It Is, Where to Find it, Who Will Build It, and Fortnite
 
 ## Links
