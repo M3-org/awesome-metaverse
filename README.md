@@ -18,11 +18,13 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [Three.js editor](https://threejs.org/editor/) - Web editor for [three.js](https://threejs.org/)
 - [Babylonjs editor](http://editor.babylonjs.com/) - Web editor for [babylon.js](https://www.babylonjs.com/)
 - [High Fidelity](https://github.com/highfidelity) - Open source VR software platform
+- [Vircadia](https://vircadia.com) - Community maintained fork of High Fidelity
 - [Decentraland](https://github.com/decentraland) - A blockchain-based virtual world
 - [Cryptovoxels](https://github.com/cryptovoxels) - Virtual world owned by its users
 
 **Non-free**
 
+- [Somnium Space](https://somniumspace.com/) - Persistent blockchain based virtual world
 - [NeosVR](https://neosvr.com) - Engine designed to accelerate the development of social VR applications
 - [VRChat](https://vrchat.com) - Biggest social VR platform with UGC of worlds and avatars
 
