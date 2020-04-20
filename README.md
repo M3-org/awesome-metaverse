@@ -64,6 +64,7 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [Anarchy Arcade](http://anarchyarcade.com/) - Advanced 3D desktop and shortcut launcher built on Source engine
   - [MetaShortcutFormat](https://github.com/smsithlord/MetaShortcutFormat) - Spec to dynamically generate rich presence representations for generic shortcuts
 - [Emergent web metaverse](https://github.com/mozilla/hubs-cloud/wiki/The-web-emergent-metaverse) - Looking at the web's past to catalyze conditions for the future Metaverse
+- [Hubs Master Plan](https://medium.com/@gfodor/the-secret-mozilla-hubs-master-plan-2c1364033bec) - Hubs / Spoke plans for the emerging web Metaverse
 - [Metaverse Standards Overview (2014)](https://web.archive.org/web/20140608135859/http://www.metaversestandards.org/index.php?title=Main_Page) - From the IEEE Virtual World Standard Working Group
 - [M3-org](https://github.com/M3-org) - An organization for the builders and makers of the metaverse
 - [Tim Sweeney at SIGGRAPH 2019](https://soundcloud.com/siggraph-spotlight/30-tim-sweeney-and-the-metaverse) - Foundational Principles & Technologies for the Metaverse
