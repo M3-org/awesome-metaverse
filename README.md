@@ -69,10 +69,10 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [A Multiverse, not the metaverse](https://techcrunch.com/2020/02/25/virtual-worlds-intro/) - 5 Part series on Multiversing by Techcrunch
 - [The library inside Minecraft and our future in the Metaverse](https://www.domusweb.it/en/news/gallery/2020/03/16/the-library-inside-minecraft-and-our-future-in-the-metaverse.html) - The Uncensored Library
 - [The Metaverse by Matthew Ball](https://www.matthewball.vc/all/themetaverse) - What It Is, Where to Find it, Who Will Build It, and Fortnite
-- [Roblox believes user-generated content will bring us the Metaverse](https://venturebeat.com/2020/05/02/roblox-believes-user-generated-content-will-bring-us-the-metaverse/)
-- [The Scarce Web](https://andrewsteinwold.substack.com/p/-the-scarce-web)
-- [Cryptovoxels Investment Thoughts](https://andrewsteinwold.substack.com/p/cryptovoxels-investment-thoughts)
-- [Balaji Srinivasan on Building a “Pseudonymous Economy”](https://blog.blockstack.org/balaji-srinivasan-on-building-a-pseudonymous-economy/)
+- [Roblox believes user-generated content will bring us the Metaverse](https://venturebeat.com/2020/05/02/roblox-believes-user-generated-content-will-bring-us-the-metaverse/) - Roblox wants players to build the metaverse
+- [The Scarce Web](https://andrewsteinwold.substack.com/p/-the-scarce-web) - Scarce Web Platforms As Hyper-Dense Cities 
+- [Cryptovoxels Investment Thoughts](https://andrewsteinwold.substack.com/p/cryptovoxels-investment-thoughts) - Personal opinions of Andrew Steinwold about Cryptovoxels
+- [Balaji Srinivasan on Building a “Pseudonymous Economy”](https://blog.blockstack.org/balaji-srinivasan-on-building-a-pseudonymous-economy/) - Pseudonymity is already the norm in virtual worlds
 
 ## Links
 
