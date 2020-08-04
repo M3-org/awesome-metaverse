@@ -73,6 +73,7 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [The Scarce Web](https://andrewsteinwold.substack.com/p/-the-scarce-web) - Scarce Web Platforms As Hyper-Dense Cities 
 - [Cryptovoxels Investment Thoughts](https://andrewsteinwold.substack.com/p/cryptovoxels-investment-thoughts) - Personal opinions of Andrew Steinwold about Cryptovoxels
 - [Balaji Srinivasan on Building a “Pseudonymous Economy”](https://blog.blockstack.org/balaji-srinivasan-on-building-a-pseudonymous-economy/) - Pseudonymity is already the norm in virtual worlds
+- [The Economy of the Metaverse](https://medium.com/ggdigest/the-economy-of-the-metaverse-interview-with-epic-ceo-tim-sweeney-1822eed01ddf) - Interview with Epic CEO Tim Sweeney
 
 ## Links
 
