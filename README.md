@@ -85,4 +85,6 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [Metaverse Standards Overview (2014)](https://web.archive.org/web/20140608135859/http://www.metaversestandards.org/index.php?title=Main_Page) - From the IEEE Virtual World Standard Working Group
 - [M3-org Research](https://github.com/M3-org/research) - Open research conducted by builders and makers of the Metaverse
 - [Tim Sweeney at SIGGRAPH 2019](https://soundcloud.com/siggraph-spotlight/30-tim-sweeney-and-the-metaverse) - Foundational Principles & Technologies for the Metaverse
+- [Solipsis](https://drive.google.com/file/d/0B3u--BesWlB9TFZEU3VSaHFxZzA/view) - A decentralized Architecture for Virtual Environments
+- [3D Virtual Worlds and the Metaverse](https://drive.google.com/file/d/0B3u--BesWlB9NUNHN2VqbVRrejg/view) - Current Status and Future Possibilities
 - [xrdevlog.com](https://xrdevlog.com) - Metaverse interoperability projects and experiments
