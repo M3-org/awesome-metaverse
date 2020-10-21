@@ -8,6 +8,8 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [Awesome WebVR](https://github.com/wizztjh/awesome-WebVR) - Curated list of awesome WebVR packages and resources
 - [Exokit](https://github.com/exokitxr/exokit-browser) - WebXR meta-browsers, engines, avatar systems, and more
   - [Exokit overview](https://hackmd.io/@xr/exokit) - Unofficial overview of the Exokit toolkit
+  - [Exokit Web](https://hackmd.io/@exokit/exokit-web) - The web metaverse engine
+  - [Exokit Web 2](https://hackmd.io/@exokit/exokit-web-v2) - Make the API simpler and easier to understand
 - [Webaverse](https://hackmd.io/@XR/webaverse) - Make spatial web objects you own using open standards
 
 
