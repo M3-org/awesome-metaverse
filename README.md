@@ -33,6 +33,8 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [Somnium Space](https://somniumspace.com/) - Persistent blockchain based virtual world
 - [NeosVR](https://neosvr.com) - Engine designed to accelerate the development of social VR applications
 - [VRChat](https://vrchat.com) - Biggest social VR platform with UGC of worlds and avatars
+- [Roblox](https://www.sec.gov/Archives/edgar/data/1315098/000119312520298230/d87104ds1.htm) - Massive online multiplayer UGC gaming platform
+- [Omniverse](https://developer.nvidia.com/nvidia-omniverse-platform) - Real-time simulation and collaboration platform for 3D production pipelines
 
 ## Protocols and Standards
 
@@ -50,13 +52,13 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [Neuromancer](https://en.wikipedia.org/wiki/Neuromancer) - (80s) Defined the Cyberpunk genre and the term Cyberspace
 - [Snow Crash](https://en.wikipedia.org/wiki/Snow_Crash) - (90s) Coined the term Metaverse as a successor to the Internet
 - [Ready Player One](https://en.wikipedia.org/wiki/Ready_Player_One) - (2011) Hit book that later became a Spielberg movie
+- [Ready Player Two](https://www.amazon.com/Ready-Player-Two-Ernest-Cline/dp/1524761338) - (2020) Sequel to Ready Player One
 - [Rainbows End](https://en.wikipedia.org/wiki/Rainbows_End) - (2006)  Increasingly digital/virtual world with ubiquitous computing
 - [Idoru](https://en.wikipedia.org/wiki/Idoru) - Virtual celebrities and decentralized virtual worlds, Book #2 in Bridge Trilogy
 
 **Non-fiction**
 
 - [The Spatial Web](https://www.amazon.com/Spatial-Web-connect-machines-transform/dp/0578562960/) - How web 3.0 will connect humans, machines and AI to transform the world
-
 
 
 ## Articles and Blogs
@@ -79,6 +81,11 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [Matt Ball – The Future of Media: Movies, the Metaverse, and More](http://investorfieldguide.com/wp-content/uploads/2020/08/Ep.-185-Matt-Ball-vF.pdf) - Investor field guide to the Metaverse
 - [Interoperability in the Blockchain Gaming World](https://dclplazas.com/interoperability-blockchain-gaming/) - Ideas about connecting blockchain based virtual worlds
 
+## White Papers
+
+- [Somnium Space Economy](https://somniumspace.com/files/Somnium%20Space%20Economy%20Paper.pdf)
+- [The Sandbox Game Whitepaper](https://installers.sandbox.game/The_Sandbox_Whitepaper_2020.pdf)
+- [Decentraland Whitepaper](https://decentraland.org/whitepaper.pdf)
 
 ## Links
 
@@ -89,6 +96,6 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [Metaverse Standards Overview (2014)](https://web.archive.org/web/20140608135859/http://www.metaversestandards.org/index.php?title=Main_Page) - From the IEEE Virtual World Standard Working Group
 - [M3-org Research](https://github.com/M3-org/research) - Open research conducted by builders and makers of the Metaverse
 - [Tim Sweeney at SIGGRAPH 2019](https://soundcloud.com/siggraph-spotlight/30-tim-sweeney-and-the-metaverse) - Foundational Principles & Technologies for the Metaverse
-- [Solipsis](https://drive.google.com/file/d/0B3u--BesWlB9TFZEU3VSaHFxZzA/view) - A decentralized Architecture for Virtual Environments
+- [Solipsis](https://drive.google.com/file/d/0B3u--BesWlB9Y1NhZDVMYXlFa2M/view) - Toward a Peer-to-Peer Shared Virtual Reality
 - [3D Virtual Worlds and the Metaverse](https://drive.google.com/file/d/0B3u--BesWlB9NUNHN2VqbVRrejg/view) - Current Status and Future Possibilities
 - [xrdevlog.com](https://xrdevlog.com) - Metaverse interoperability projects and experiments
