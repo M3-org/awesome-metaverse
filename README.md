@@ -80,6 +80,8 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [The Economy of the Metaverse](https://medium.com/ggdigest/the-economy-of-the-metaverse-interview-with-epic-ceo-tim-sweeney-1822eed01ddf) - Interview with Epic CEO Tim Sweeney
 - [Matt Ball – The Future of Media: Movies, the Metaverse, and More](http://investorfieldguide.com/wp-content/uploads/2020/08/Ep.-185-Matt-Ball-vF.pdf) - Investor field guide to the Metaverse
 - [Interoperability in the Blockchain Gaming World](https://dclplazas.com/interoperability-blockchain-gaming/) - Ideas about connecting blockchain based virtual worlds
+- [Into the Void: Where Crypto Meets The Metaverse](https://metaversed.net/Into-The-Void-Where-Crypto-Meets-The-Metaverse-263f1ff8c13c455ea472f5689e01acaa) - Piers Kicks article on blockchain based underpinnings for an open Metaverse
+- [The Open Metaverse OS](https://outlierventures.io/research/the-open-metaverse-os/) - Exploration & framework for how web3 innovations converge with The Metaverse
 
 ## White Papers
 
