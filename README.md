@@ -10,7 +10,7 @@ List of awesome projects and information resources about the [Metaverse](https:/
   - [Exokit overview](https://hackmd.io/@xr/exokit) - Unofficial overview of the Exokit toolkit
   - [Exokit Web](https://hackmd.io/@exokit/exokit-web) - The web metaverse engine
   - [Exokit Web 2](https://hackmd.io/@exokit/exokit-web-v2) - Make the API simpler and easier to understand
-- [Webaverse](https://hackmd.io/@XR/webaverse) - Make spatial web objects you own using open standards
+- [Webaverse](https://hackmd.io/@XR/webaverse) - Make spatial web objects you own using open standards (older notes)
 
 
 ## Social VR
@@ -27,6 +27,7 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [Vircadia](https://vircadia.com) - Community maintained fork of High Fidelity
 - [Decentraland](https://github.com/decentraland) - A blockchain-based virtual world
 - [Cryptovoxels](https://github.com/cryptovoxels) - Virtual world owned by its users
+- [Webaverse](https://github.com/webaverse) - A universe of 3D apps that work everywhere
 
 **Non-free**
 
