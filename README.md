@@ -25,6 +25,7 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [Babylonjs editor](http://editor.babylonjs.com/) - Web editor for [babylon.js](https://www.babylonjs.com/)
 - [High Fidelity](https://github.com/highfidelity) - Open source VR software platform (Deprecated)
 - [Vircadia](https://vircadia.com) - Community maintained fork of High Fidelity
+- [Tivoli Cloud](https://tivolicloud.com/) - Open source fork of High Fidelity
 - [Decentraland](https://github.com/decentraland) - A blockchain-based virtual world
 - [Cryptovoxels](https://github.com/cryptovoxels) - Virtual world owned by its users
 - [Webaverse](https://github.com/webaverse) - A universe of 3D apps that work everywhere
