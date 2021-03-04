@@ -13,6 +13,7 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [Webaverse](https://hackmd.io/@XR/webaverse) - Make spatial web objects you own using open standards (older notes)
 
 
+
 ## Social VR
 
 **Open Source**
@@ -29,6 +30,7 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [Decentraland](https://github.com/decentraland) - A blockchain-based virtual world
 - [Cryptovoxels](https://github.com/cryptovoxels) - Virtual world owned by its users
 - [Webaverse](https://github.com/webaverse) - A universe of 3D apps that work everywhere
+- [XR3ngine](https://github.com/xr3ngine/xr3ngine) - Open source framework for building scalable realtime social apps
 
 **Non-free**
 
