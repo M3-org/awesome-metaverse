@@ -93,6 +93,7 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [Somnium Space Economy](https://somniumspace.com/files/Somnium%20Space%20Economy%20Paper.pdf)
 - [The Sandbox Game Whitepaper](https://installers.sandbox.game/The_Sandbox_Whitepaper_2020.pdf)
 - [Decentraland Whitepaper](https://decentraland.org/whitepaper.pdf)
+- [Webaverse Whitepaper](https://github.com/webaverse/whitepaper/blob/master/whitepaper.pdf)
 
 ## Links
 
