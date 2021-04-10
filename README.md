@@ -97,6 +97,7 @@ List of awesome projects and information resources about the [Metaverse](https:/
 
 ## Links
 
+- [urn-namespaces](https://github.com/common-metaverse/urn-namespaces) - A common identifier for assets across the metaverse
 - [Anarchy Arcade](http://anarchyarcade.com/) - Advanced 3D desktop and shortcut launcher built on Source engine
   - [MetaShortcutFormat](https://github.com/smsithlord/MetaShortcutFormat) - Spec to dynamically generate rich presence representations for generic shortcuts
 - [Emergent web metaverse](https://github.com/mozilla/hubs-cloud/wiki/The-web-emergent-metaverse) - Looking at the web's past to catalyze conditions for the future Metaverse
