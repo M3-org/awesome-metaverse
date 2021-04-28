@@ -78,15 +78,18 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [The library inside Minecraft and our future in the Metaverse](https://www.domusweb.it/en/news/gallery/2020/03/16/the-library-inside-minecraft-and-our-future-in-the-metaverse.html) - The Uncensored Library
 - [The Metaverse by Matthew Ball](https://www.matthewball.vc/all/themetaverse) - What It Is, Where to Find it, Who Will Build It, and Fortnite
 - [Roblox believes user-generated content will bring us the Metaverse](https://venturebeat.com/2020/05/02/roblox-believes-user-generated-content-will-bring-us-the-metaverse/) - Roblox wants players to build the metaverse
-- [The Scarce Web](https://andrewsteinwold.substack.com/p/-the-scarce-web) - Scarce Web Platforms As Hyper-Dense Cities 
-- [Cryptovoxels Investment Thoughts](https://andrewsteinwold.substack.com/p/cryptovoxels-investment-thoughts) - Personal opinions of Andrew Steinwold about Cryptovoxels
 - [Balaji Srinivasan on Building a “Pseudonymous Economy”](https://blog.blockstack.org/balaji-srinivasan-on-building-a-pseudonymous-economy/) - Pseudonymity is already the norm in virtual worlds
 - [The Economy of the Metaverse](https://medium.com/ggdigest/the-economy-of-the-metaverse-interview-with-epic-ceo-tim-sweeney-1822eed01ddf) - Interview with Epic CEO Tim Sweeney
 - [Matt Ball – The Future of Media: Movies, the Metaverse, and More](http://investorfieldguide.com/wp-content/uploads/2020/08/Ep.-185-Matt-Ball-vF.pdf) - Investor field guide to the Metaverse
-- [Interoperability in the Blockchain Gaming World](https://dclplazas.com/interoperability-blockchain-gaming/) - Ideas about connecting blockchain based virtual worlds
+
+**Crypto**
+
 - [Into the Void: Where Crypto Meets The Metaverse](https://metaversed.net/Into-The-Void-Where-Crypto-Meets-The-Metaverse-263f1ff8c13c455ea472f5689e01acaa) - Piers Kicks article on blockchain based underpinnings for an open Metaverse
 - [The Open Metaverse OS](https://outlierventures.io/research/the-open-metaverse-os/) - Exploration & framework for how web3 innovations converge with The Metaverse
 - [Who will own the Metaverse?](https://medium.com/digital-catapult/who-will-own-the-metaverse-48c2912d7aae) - The business of building the planet-scale augmented reality cloud
+- [Interoperability in the Blockchain Gaming World](https://dclplazas.com/interoperability-blockchain-gaming/) - Ideas about connecting blockchain based virtual worlds
+- [Zima Red](https://andrewsteinwold.substack.com/) - NFTs, Virtual Worlds, Blockchain Games
+- [NFT Canon](https://a16z.com/2021/04/02/nfts-readings-resources/) - Go-to resource curated by a16z about NFTs
 
 ## White Papers
 
