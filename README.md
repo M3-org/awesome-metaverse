@@ -80,7 +80,7 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [Roblox believes user-generated content will bring us the Metaverse](https://venturebeat.com/2020/05/02/roblox-believes-user-generated-content-will-bring-us-the-metaverse/) - Roblox wants players to build the metaverse
 - [Balaji Srinivasan on Building a “Pseudonymous Economy”](https://blog.blockstack.org/balaji-srinivasan-on-building-a-pseudonymous-economy/) - Pseudonymity is already the norm in virtual worlds
 - [The Economy of the Metaverse](https://medium.com/ggdigest/the-economy-of-the-metaverse-interview-with-epic-ceo-tim-sweeney-1822eed01ddf) - Interview with Epic CEO Tim Sweeney
-- [Matt Ball – The Future of Media: Movies, the Metaverse, and More](http://investorfieldguide.com/wp-content/uploads/2020/08/Ep.-185-Matt-Ball-vF.pdf) - Investor field guide to the Metaverse
+- [Matthew Ball – The Future of Media: Movies, the Metaverse, and More](https://www.joincolossus.com/episodes/69430337/ball-the-future-of-media-movies-the-metaverse-and-more?tab=shownotes) - Investor field guide to the Metaverse
 
 **Crypto**
 
