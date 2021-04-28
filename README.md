@@ -84,9 +84,10 @@ List of awesome projects and information resources about the [Metaverse](https:/
 
 **Crypto**
 
-- [Into the Void: Where Crypto Meets The Metaverse](https://metaversed.net/Into-The-Void-Where-Crypto-Meets-The-Metaverse-263f1ff8c13c455ea472f5689e01acaa) - Piers Kicks article on blockchain based underpinnings for an open Metaverse
+- [Into the Void: Where Crypto Meets The Metaverse](https://twitter.com/pierskicks/status/1353420599368978432) - Piers Kicks article on blockchain based underpinnings for an open Metaverse
 - [The Open Metaverse OS](https://outlierventures.io/research/the-open-metaverse-os/) - Exploration & framework for how web3 innovations converge with The Metaverse
 - [Interoperability in the Blockchain Gaming World](https://dclplazas.com/interoperability-blockchain-gaming/) - Ideas about connecting blockchain based virtual worlds
+- [The Virtual Economy](https://atelier.net/virtual-economy/) - Stunning wbesite presentation about the intersection of crypto and virtual worlds
 - [Zima Red](https://andrewsteinwold.substack.com/) - NFTs, Virtual Worlds, Blockchain Games
 - [NFT Canon](https://a16z.com/2021/04/02/nfts-readings-resources/) - Go-to resource curated by a16z about NFTs
 
