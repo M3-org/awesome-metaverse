@@ -28,12 +28,12 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [Vircadia](https://vircadia.com) - Community maintained fork of High Fidelity
 - [Tivoli Cloud](https://tivolicloud.com/) - Open source fork of High Fidelity
 - [Decentraland](https://github.com/decentraland) - A blockchain-based virtual world
-- [Cryptovoxels](https://github.com/cryptovoxels) - Virtual world owned by its users
 - [Webaverse](https://github.com/webaverse) - A universe of 3D apps that work everywhere
 - [XR3ngine](https://github.com/xr3ngine/xr3ngine) - Open source framework for building scalable realtime social apps
 
 **Non-free**
 
+- [Cryptovoxels](https://github.com/cryptovoxels) - Virtual world owned by its users
 - [Somnium Space](https://somniumspace.com/) - Persistent blockchain based virtual world
 - [NeosVR](https://neosvr.com) - Engine designed to accelerate the development of social VR applications
 - [VRChat](https://vrchat.com) - Biggest social VR platform with UGC of worlds and avatars
