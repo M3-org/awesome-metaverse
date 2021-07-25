@@ -54,6 +54,7 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [VRM](https://vrm.dev/en/) - File format for 3D humanoid avatars
 - [Ethereum](https://ethereum.org/learn/) - Decentralized world computer
 - [WebXR](https://immersive-web.github.io/webxr/) - Accessing VR/AR hardware on the web
+- [Open Metaverse Interoperability](https://github.com/omigroup/OMI) - Protocols for interoperable virtual worlds
 
 ## Books
 
