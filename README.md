@@ -10,7 +10,7 @@ List of awesome projects and information resources about the [Metaverse](https:/
   - [Exokit overview](https://hackmd.io/@xr/exokit) - Unofficial overview of the Exokit toolkit
   - [Exokit Web](https://hackmd.io/@exokit/exokit-web) - The web metaverse engine
   - [Exokit Web 2](https://hackmd.io/@exokit/exokit-web-v2) - Make the API simpler and easier to understand
-- [Webaverse](https://hackmd.io/@XR/webaverse) - Make spatial web objects you own using open standards (older notes)
+- [Webaverse](https://docs.webaverse.com) - Make spatial web objects you own using open standards
 
 
 
