@@ -40,6 +40,9 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [Roblox](https://www.sec.gov/Archives/edgar/data/1315098/000119312520298230/d87104ds1.htm) - Massive online multiplayer UGC gaming platform
 - [Omniverse](https://developer.nvidia.com/nvidia-omniverse-platform) - Real-time simulation and collaboration platform for 3D production pipelines
 
+## Avatar Providers
+- [Ready Player Me](https://readyplayer.me/) - Cross-game Avatar Platform for the Metaverse
+
 ## Protocols and Standards
 
 - [Dat](https://dat.foundation/) - a peer-to-peer protocol
