@@ -41,7 +41,10 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [Omniverse](https://developer.nvidia.com/nvidia-omniverse-platform) - Real-time simulation and collaboration platform for 3D production pipelines
 
 ## Avatar Providers
+
 - [Ready Player Me](https://readyplayer.me/) - Cross-game Avatar Platform for the Metaverse
+- [VRoid Hub](https://hub.vroid.com/en/) - Platform for uploading humanoid VRM avatars
+- [Cryptoavatars](https://cryptoavatars.io/) - Unique VRM avatars on the Ethereum blockchain
 
 ## Protocols and Standards
 
