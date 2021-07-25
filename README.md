@@ -82,6 +82,7 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [Balaji Srinivasan on Building a “Pseudonymous Economy”](https://blog.blockstack.org/balaji-srinivasan-on-building-a-pseudonymous-economy/) - Pseudonymity is already the norm in virtual worlds
 - [The Economy of the Metaverse](https://medium.com/ggdigest/the-economy-of-the-metaverse-interview-with-epic-ceo-tim-sweeney-1822eed01ddf) - Interview with Epic CEO Tim Sweeney
 - [Mark Zuckerberg Metaverse Interview](https://www.theverge.com/22588022/mark-zuckerberg-facebook-ceo-metaverse-interview) - Zuck on Facebook becoming 'a Metaverse Company'
+- [The Metaverse is Everything](https://outofscope.bureauofbrightideas.com/the-metaverse-is-everything/) - Article by Doug Thompson on why we're talking about the Metaverse now
 
 **Crypto**
 
