@@ -39,7 +39,7 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [VRChat](https://vrchat.com) - Biggest social VR platform with UGC of worlds and avatars
 - [Roblox](https://www.sec.gov/Archives/edgar/data/1315098/000119312520298230/d87104ds1.htm) - Massive online multiplayer UGC gaming platform
 - [Omniverse](https://developer.nvidia.com/nvidia-omniverse-platform) - Real-time simulation and collaboration platform for 3D production pipelines
-- [dot big bang](https://dotbigbang.com/social) - Web-based online multiplayer UGC gaming platform with all tools built-in and scripting in TypeScript
+- [dot big bang](https://dotbigbang.com/social) - Web-based multiplayer UGC gaming platform with built-in tools and Typescript scripting
 - [Helios](https://www.helios-vr.com/) - Unreal Engine based UGC worlds, avatars and gaming platform
 
 ## Avatar Providers
