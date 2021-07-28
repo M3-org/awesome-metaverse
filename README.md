@@ -103,6 +103,7 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [Zima Red](https://andrewsteinwold.substack.com/) - NFTs, Virtual Worlds, Blockchain Games
 - [NFT Canon](https://a16z.com/2021/04/02/nfts-readings-resources/) - Go-to resource curated by a16z about NFTs
 - [The Great Online Game](https://www.notboring.co/p/the-great-online-game) - Blog post about the multiplayer meta game of the Internet
+- [A Primer on VR & the Blockchain](https://medium.com/@kentbye/a-primer-on-vr-the-blockchain-20-big-ideas-about-the-decentralized-metaverse-c0f4c5e204f9) - 20 Big Ideas about the Decentralized Metaverse by Kent Bye
 
 ## White Papers
 
