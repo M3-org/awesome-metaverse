@@ -37,6 +37,7 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [Somnium Space](https://somniumspace.com/) - Persistent blockchain based virtual world
 - [NeosVR](https://neosvr.com) - Engine designed to accelerate the development of social VR applications
 - [VRChat](https://vrchat.com) - Biggest social VR platform with UGC of worlds and avatars
+  - [Awesome VRChat](https://github.com/madjin/awesome-vrchat) - One-stop shop for people interested in developing content for VRchat
 - [Roblox](https://www.sec.gov/Archives/edgar/data/1315098/000119312520298230/d87104ds1.htm) - Massive online multiplayer UGC gaming platform
 - [Omniverse](https://developer.nvidia.com/nvidia-omniverse-platform) - Real-time simulation and collaboration platform for 3D production pipelines
 - [dot big bang](https://dotbigbang.com/social) - Web-based multiplayer UGC gaming platform with built-in tools and Typescript scripting
