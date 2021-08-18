@@ -74,6 +74,15 @@ List of awesome projects and information resources about the [Metaverse](https:/
 
 - [The Spatial Web](https://www.amazon.com/Spatial-Web-connect-machines-transform/dp/0578562960/) - How web 3.0 will connect humans, machines and AI to transform the world
 
+## Movies
+
+- The Matrix
+- The Thirteenth Floor
+- Existenz
+- Free Guy
+- Tron
+- Wreck it Ralph 2
+- Ready Player One
 
 ## Articles and Blogs
 - [The Metaverse Primer](https://www.matthewball.vc/the-metaverse-primer) - 9 Part series from Matthew Ball 
