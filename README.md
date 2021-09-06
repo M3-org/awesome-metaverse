@@ -59,6 +59,12 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [WebXR](https://immersive-web.github.io/webxr/) - Accessing VR/AR hardware on the web
 - [Open Metaverse Interoperability](https://github.com/omigroup/OMI) - Protocols for interoperable virtual worlds
 
+## Tools 
+
+**Analytics, Statistics**
+
+- [Voxalytics](https://github.com/ymyke/voxalytics) - collection of Jupyter notebooks to analyze various aspects around Cryptovoxels
+
 ## Books
 
 **Sci-Fi**
