@@ -11,8 +11,8 @@ List of awesome projects and information resources about the [Metaverse](https:/
   - [Exokit Web](https://hackmd.io/@exokit/exokit-web) - The web metaverse engine
   - [Exokit Web 2](https://hackmd.io/@exokit/exokit-web-v2) - Make the API simpler and easier to understand
 - [Webaverse](https://docs.webaverse.com) - Make spatial web objects you own using open standards
-- [Awesome WebXR](https://github.com/msurguy/awesome-webxr) - Compilation of links for WebXR demos, frameworks, editors and more
-
+- [Awesome WebXR](https://github.com/msub2/awesome-webxr) - Compilation of links for WebXR demos, frameworks, editors and more
+  - [Awesome WebXR 2](https://github.com/msurguy/awesome-webxr)
 
 ## Social VR
 
@@ -99,6 +99,7 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [The library inside Minecraft and our future in the Metaverse](https://www.domusweb.it/en/news/gallery/2020/03/16/the-library-inside-minecraft-and-our-future-in-the-metaverse.html) - The Uncensored Library
 - [Roblox believes user-generated content will bring us the Metaverse](https://venturebeat.com/2020/05/02/roblox-believes-user-generated-content-will-bring-us-the-metaverse/) - Roblox wants players to build the metaverse
 - [Balaji Srinivasan on Building a “Pseudonymous Economy”](https://blog.blockstack.org/balaji-srinivasan-on-building-a-pseudonymous-economy/) - Pseudonymity is already the norm in virtual worlds
+- [WHAT IS THE METAVERSE, AND DO I HAVE TO CARE?](https://www.theverge.com/22701104/metaverse-explained-fortnite-roblox-facebook-horizon) - Verge article that's one part definition, one part aspiration, one part hype
 - [The Economy of the Metaverse](https://medium.com/ggdigest/the-economy-of-the-metaverse-interview-with-epic-ceo-tim-sweeney-1822eed01ddf) - Interview with Epic CEO Tim Sweeney
 - [Mark Zuckerberg Metaverse Interview](https://www.theverge.com/22588022/mark-zuckerberg-facebook-ceo-metaverse-interview) - Zuck on Facebook becoming 'a Metaverse Company'
 - [The Metaverse is Everything](https://outofscope.bureauofbrightideas.com/the-metaverse-is-everything/) - Article by Doug Thompson on why we're talking about the Metaverse now
