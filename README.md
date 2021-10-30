@@ -42,6 +42,7 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [Omniverse](https://developer.nvidia.com/nvidia-omniverse-platform) - Real-time simulation and collaboration platform for 3D production pipelines
 - [dot big bang](https://dotbigbang.com/social) - Web-based multiplayer UGC gaming platform with built-in tools and Typescript scripting
 - [Helios](https://www.helios-vr.com/) - Unreal Engine based UGC worlds, avatars and gaming platform
+- [Meta](https://youtu.be/Uvufun6xer8) - Meta (previously Facebook) announcement video of The Metaverse
 
 ## Avatar Providers
 
