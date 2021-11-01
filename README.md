@@ -105,6 +105,7 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [Mark Zuckerberg Metaverse Interview](https://www.theverge.com/22588022/mark-zuckerberg-facebook-ceo-metaverse-interview) - Zuck on Facebook becoming 'a Metaverse Company'
 - [The Metaverse is Everything](https://outofscope.bureauofbrightideas.com/the-metaverse-is-everything/) - Article by Doug Thompson on why we're talking about the Metaverse now
 - [The Seven Rules of the Metaverse](https://medium.com/meta-verses/the-seven-rules-of-the-metaverse-7d4e06fa864c) - A framework for the coming immersive reality by auradeluxe
+- [ByteDance One Billion investment in Metaverse](https://m.thepaper.cn/baijiahao_14273951) - In the next five years, this concept will subvert the world
 
 **Crypto**
 
