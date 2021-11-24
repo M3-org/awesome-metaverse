@@ -16,7 +16,7 @@ List of awesome projects and information resources about the [Metaverse](https:/
 
 ## Social VR
 
-**Open Source**
+**Open Source Tools / Engines**
 
 - [Janus Guide](https://janusvr.github.io/guide/#/) - JanusXR is an open source 3D browser and visual editor
 - [JanusWeb](https://github.com/jbaicoianu/janusweb) - Web framework for building interconnected virtual reality experiences
@@ -27,7 +27,7 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [High Fidelity](https://github.com/highfidelity) - Open source VR software platform (Deprecated)
 - [Vircadia](https://vircadia.com) - Community maintained fork of High Fidelity
 - [Tivoli Cloud](https://tivolicloud.com/) - Open source fork of High Fidelity
-- [Decentraland](https://github.com/decentraland) - A blockchain-based virtual world
+- [Decentraland](https://github.com/decentraland) - A blockchain-based virtual world (not VR yet)
 - [Webaverse](https://github.com/webaverse) - A universe of 3D apps that work everywhere
 - [XR3ngine](https://github.com/xr3ngine/xr3ngine) - Open source framework for building scalable realtime social apps
 
