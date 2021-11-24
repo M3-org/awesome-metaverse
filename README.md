@@ -22,6 +22,7 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [JanusWeb](https://github.com/jbaicoianu/janusweb) - Web framework for building interconnected virtual reality experiences
 - [Hubs](https://hubs.mozilla.com/) - Multi-user virtual spaces in WebXR, made by Mozilla
 - [Spoke](https://github.com/mozilla/spoke) - Easily create custom 3D environments
+- [Open Brush](https://openbrush.app/) - Derivative made from the open source code of Tilt Brush
 - [Three.js editor](https://threejs.org/editor/) - Web editor for [three.js](https://threejs.org/)
 - [Babylonjs editor](http://editor.babylonjs.com/) - Web editor for [babylon.js](https://www.babylonjs.com/)
 - [High Fidelity](https://github.com/highfidelity) - Open source VR software platform (Deprecated)
