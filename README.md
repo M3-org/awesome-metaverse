@@ -13,6 +13,8 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [Webaverse](https://docs.webaverse.com) - Make spatial web objects you own using open standards
 - [Awesome WebXR](https://github.com/msub2/awesome-webxr) - Compilation of links for WebXR demos, frameworks, editors and more
   - [Awesome WebXR 2](https://github.com/msurguy/awesome-webxr)
+- [Zesty Market](https://app.zesty.market/) - A marketplace for rentable NFT banner spaces in XR. Has generated over $5K USD revenue for WebXR devs.
+- [Web3XR](https://web3xr.com) - Site explaining the intersection of Web3 and WebXR technologies.
 
 ## Social VR
 
