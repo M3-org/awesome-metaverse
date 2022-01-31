@@ -10,7 +10,7 @@ List of awesome projects and information resources about the [Metaverse](https:/
   - [Exokit overview](https://hackmd.io/@xr/exokit) - Unofficial overview of the Exokit toolkit
   - [Exokit Web](https://hackmd.io/@exokit/exokit-web) - The web metaverse engine
   - [Exokit Web 2](https://hackmd.io/@exokit/exokit-web-v2) - Make the API simpler and easier to understand
-- [Webaverse](https://docs.webaverse.com) - Make spatial web objects you own using open standards
+- [Webaverse](https://docs.webaverse.com) - 100% open source web based metaverse / game engine
 - [Awesome WebXR](https://github.com/msub2/awesome-webxr) - Compilation of links for WebXR demos, frameworks, editors and more
   - [Awesome WebXR 2](https://github.com/msurguy/awesome-webxr)
 - [Zesty Market](https://app.zesty.market/) - A marketplace for rentable NFT banner spaces in XR. Has generated over $5K USD revenue for WebXR devs.
@@ -31,7 +31,7 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [Vircadia](https://vircadia.com) - Community maintained fork of High Fidelity
 - [Tivoli Cloud](https://tivolicloud.com/) - Open source fork of High Fidelity
 - [Decentraland](https://github.com/decentraland) - A blockchain-based virtual world (not VR yet)
-- [Webaverse](https://github.com/webaverse) - A universe of 3D apps that work everywhere
+- [Webaverse](https://github.com/webaverse) - 100% open source web based metaverse / game engine
 - [XR3ngine](https://github.com/xr3ngine/xr3ngine) - Open source framework for building scalable realtime social apps
 
 **Non-free**
