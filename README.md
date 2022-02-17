@@ -33,6 +33,7 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [Decentraland](https://github.com/decentraland) - A blockchain-based virtual world (not VR yet)
 - [Webaverse](https://github.com/webaverse) - 100% open source web based metaverse / game engine
 - [XR3ngine](https://github.com/xr3ngine/xr3ngine) - Open source framework for building scalable realtime social apps
+- [WorkAdventure](https://workadventu.re) - Virtual offices and events in a 2D pixelated world
 
 **Non-free**
 
