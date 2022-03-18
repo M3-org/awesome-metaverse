@@ -73,6 +73,7 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [Ready Player Two](https://www.amazon.com/Ready-Player-Two-Ernest-Cline/dp/1524761338) - (2020) Sequel to Ready Player One
 - [Rainbows End](https://en.wikipedia.org/wiki/Rainbows_End) - (2006)  Increasingly digital/virtual world with ubiquitous computing
 - [Idoru](https://en.wikipedia.org/wiki/Idoru) - Virtual celebrities and decentralized virtual worlds, Book #2 in Bridge Trilogy
+- [The Three-Body Problem](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)) - a VR game plays a crucial role in the movie's intergalactic plot
 
 **Non-fiction**
 
@@ -87,6 +88,11 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - Tron
 - Wreck it Ralph 2
 - Ready Player One
+
+## TV Shows
+
+- Black Mirror (USS Callister & San Junipero in particular)
+- Upload
 
 ## Articles and Blogs
 - [The Metaverse Primer](https://www.matthewball.vc/the-metaverse-primer) - 9 Part series from Matthew Ball 
