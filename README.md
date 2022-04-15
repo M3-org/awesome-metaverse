@@ -13,26 +13,32 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [Webaverse](https://docs.webaverse.com) - 100% open source web based metaverse / game engine
 - [Awesome WebXR](https://github.com/msub2/awesome-webxr) - Compilation of links for WebXR demos, frameworks, editors and more
   - [Awesome WebXR 2](https://github.com/msurguy/awesome-webxr)
-- [Zesty Market](https://app.zesty.market/) - A marketplace for rentable NFT banner spaces in XR. Has generated over $5K USD revenue for WebXR devs.
-- [Web3XR](https://web3xr.com) - Site explaining the intersection of Web3 and WebXR technologies.
+- [Zesty Market](https://app.zesty.market/) - A marketplace for rentable NFT banner spaces in XR
+- [Web3XR](https://web3xr.com) - Site explaining the intersection of Web3 and WebXR technologies, WIP
+- 
 
 ## Social VR
 
-**Open Source Tools / Engines**
+**Open Source Frameworks**
 
-- [Janus Guide](https://janusvr.github.io/guide/#/) - JanusXR is an open source 3D browser and visual editor
 - [JanusWeb](https://github.com/jbaicoianu/janusweb) - Web framework for building interconnected virtual reality experiences
+  - [Janus Guide](https://janusvr.github.io/guide/#/) - Learn to build open source self-hosted virtual worlds connected by portals
+- [a-frame](https://aframe.io/) - JS framework for building 3D/AR/VR experiences
 - [Hubs](https://hubs.mozilla.com/) - Multi-user virtual spaces in WebXR, made by Mozilla
+- ~~[High Fidelity](https://github.com/highfidelity)~~ - Open source VR software platform (Deprecated)
+- [Vircadia](https://vircadia.com) - Community maintained fork of High Fidelity
+- ~~[Tivoli Cloud](https://tivolicloud.com/)~~ - Open source fork of High Fidelity
+- [Decentraland](https://github.com/decentraland) - A blockchain-based virtual world (not VR yet)
+- [Webaverse](https://github.com/webaverse) - 100% open source web based metaverse / game engine
+- [XR3ngine](https://github.com/xr3ngine/xr3ngine) - Open source framework for building scalable realtime social apps
+
+**Open Source Tools**
+
+- [Blender](https://blender.org/) - #1 open tool for 3D creation, modeling, and much more
 - [Spoke](https://github.com/mozilla/spoke) - Easily create custom 3D environments
 - [Open Brush](https://openbrush.app/) - Derivative made from the open source code of Tilt Brush
 - [Three.js editor](https://threejs.org/editor/) - Web editor for [three.js](https://threejs.org/)
 - [Babylonjs editor](http://editor.babylonjs.com/) - Web editor for [babylon.js](https://www.babylonjs.com/)
-- [High Fidelity](https://github.com/highfidelity) - Open source VR software platform (Deprecated)
-- [Vircadia](https://vircadia.com) - Community maintained fork of High Fidelity
-- [Tivoli Cloud](https://tivolicloud.com/) - Open source fork of High Fidelity
-- [Decentraland](https://github.com/decentraland) - A blockchain-based virtual world (not VR yet)
-- [Webaverse](https://github.com/webaverse) - 100% open source web based metaverse / game engine
-- [XR3ngine](https://github.com/xr3ngine/xr3ngine) - Open source framework for building scalable realtime social apps
 
 **Non-free**
 
@@ -45,30 +51,42 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [Omniverse](https://developer.nvidia.com/nvidia-omniverse-platform) - Real-time simulation and collaboration platform for 3D production pipelines
 - [dot big bang](https://dotbigbang.com/social) - Web-based multiplayer UGC gaming platform with built-in tools and Typescript scripting
 - [Helios](https://www.helios-vr.com/) - Unreal Engine based UGC worlds, avatars and gaming platform
-- [Meta](https://youtu.be/Uvufun6xer8) - Meta (previously Facebook) announcement video of The Metaverse
+- [Horizon Worlds](https://youtu.be/Uvufun6xer8) - Meta (previously Facebook) announcement video of The Metaverse
+- [FrameVR](https://learn.framevr.io/) - No-code creation of browser based virtual worlds
+- [oncyber](https://oncyber.io/) - Easy platform to display NFTs in a virtual world, built on threejs
+- [Monaverse](https://www.mona.gallery/) - Mint and display 3D spaces in Unity webgl powered 3D worlds, VR support soon
+
+**2D Platforms**
+
+- [Worldwide Web3](https://webb.game/) - Free to play interoperable MMORPG metaverse project on Ethereum, closed source
+- [Gather Town](https://www.gather.town/) - Virtual office and event space, closed source
+- [Atlantis World](https://atlantis.world/) - Web3 social metaverse platform, closed source
+- [Work Adventure](https://workadventu.re) - collaborative virtual office web app presented as a 16-bit RPG video game, open source
 
 ## Avatar Providers
 
 - [Ready Player Me](https://readyplayer.me/) - Cross-game Avatar Platform for the Metaverse
 - [VRoid Hub](https://hub.vroid.com/en/) - Platform for uploading humanoid VRM avatars
 - [Cryptoavatars](https://cryptoavatars.io/) - Unique VRM avatars on the Ethereum blockchain
+- [Mixamo](https://www.mixamo.com/) - Easy tool to rig and animate characters, by Adobe
+- [Booth.pm](https://booth.pm/) - Indie marketplace that contains many 3D avatar / world assets
 
 ## Protocols and Standards
 
-- [Dat](https://dat.foundation/) - a peer-to-peer protocol
+- [Dat](https://dat-ecosystem.org/) - a peer-to-peer protocol
 - [IPFS](https://ipfs.io) - a peer-to-peer hypermedia protocol
 - [glTF](https://www.khronos.org/gltf/) - Runtime 3D asset delivery
 - [VRM](https://vrm.dev/en/) - File format for 3D humanoid avatars
 - [Ethereum](https://ethereum.org/learn/) - Decentralized world computer
 - [WebXR](https://immersive-web.github.io/webxr/) - Accessing VR/AR hardware on the web
-- [Open Metaverse Interoperability](https://github.com/omigroup/OMI) - Protocols for interoperable virtual worlds
+- [Open Metaverse Interoperability](https://github.com/omigroup/OMI) - Working group for open protocols / standards
 
 ## Books
 
 **Sci-Fi**
 
 - [Neuromancer](https://en.wikipedia.org/wiki/Neuromancer) - (80s) Defined the Cyberpunk genre and the term Cyberspace
-- [Snow Crash](https://en.wikipedia.org/wiki/Snow_Crash) - (90s) Coined the term Metaverse as a successor to the Internet
+- [**Snow Crash**](https://en.wikipedia.org/wiki/Snow_Crash) - (90s) Coined the term Metaverse as a successor to the Internet
 - [Ready Player One](https://en.wikipedia.org/wiki/Ready_Player_One) - (2011) Hit book that later became a Spielberg movie
 - [Ready Player Two](https://www.amazon.com/Ready-Player-Two-Ernest-Cline/dp/1524761338) - (2020) Sequel to Ready Player One
 - [Rainbows End](https://en.wikipedia.org/wiki/Rainbows_End) - (2006)  Increasingly digital/virtual world with ubiquitous computing
@@ -77,8 +95,9 @@ List of awesome projects and information resources about the [Metaverse](https:/
 **Non-fiction**
 
 - [The Spatial Web](https://www.amazon.com/Spatial-Web-connect-machines-transform/dp/0578562960/) - How web 3.0 will connect humans, machines and AI to transform the world
+- [The Metaverse: And How it Will Revolutionize Everything](https://www.amazon.com/Metaverse-How-Will-Revolutionize-Everything/dp/1324092033) - Upcoming book by Matthew Ball
 
-## Movies
+## Media
 
 - The Matrix
 - The Thirteenth Floor
@@ -87,6 +106,9 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - Tron
 - Wreck it Ralph 2
 - Ready Player One
+- Black Mirror (USS Callister & San Junipero in particular)
+- Upload
+
 
 ## Articles and Blogs
 - [The Metaverse Primer](https://www.matthewball.vc/the-metaverse-primer) - 9 Part series from Matthew Ball 
@@ -107,7 +129,9 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [The Economy of the Metaverse](https://medium.com/ggdigest/the-economy-of-the-metaverse-interview-with-epic-ceo-tim-sweeney-1822eed01ddf) - Interview with Epic CEO Tim Sweeney
 - [Mark Zuckerberg Metaverse Interview](https://www.theverge.com/22588022/mark-zuckerberg-facebook-ceo-metaverse-interview) - Zuck on Facebook becoming 'a Metaverse Company'
 - [The Metaverse is Everything](https://outofscope.bureauofbrightideas.com/the-metaverse-is-everything/) - Article by Doug Thompson on why we're talking about the Metaverse now
+- [Building the Metaverse with janusVR](https://www.roadtovr.com/building-metaverse-janusvr/) - From 2015 but still relevant for building 3D internet experiences 
 - [The Seven Rules of the Metaverse](https://medium.com/meta-verses/the-seven-rules-of-the-metaverse-7d4e06fa864c) - A framework for the coming immersive reality by auradeluxe
+- [Building the Open Metaverse Podcast](https://www.youtube.com/channel/UCCMEsdydTLm-e7gI10v_quA) - Hosted by Patrick Cozzi (Cesium) and Marc Petit (Epic Games)
 
 **Crypto**
 
@@ -120,6 +144,7 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [NFT Canon](https://a16z.com/2021/04/02/nfts-readings-resources/) - Go-to resource curated by a16z about NFTs
 - [The Great Online Game](https://www.notboring.co/p/the-great-online-game) - Blog post about the multiplayer meta game of the Internet
 - [A Primer on VR & the Blockchain](https://medium.com/@kentbye/a-primer-on-vr-the-blockchain-20-big-ideas-about-the-decentralized-metaverse-c0f4c5e204f9) - 20 Big Ideas about the Decentralized Metaverse by Kent Bye
+- [CC0 Compendium](https://jpg.space/0x08ceb8bba685ee708c9c4c65576837cbe19b9dea/CC0-Compendium) - curated selection of resources about CC0 NFT projects
 
 ## White Papers
 
@@ -129,7 +154,7 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [Webaverse Whitepaper](https://github.com/webaverse/whitepaper/blob/master/whitepaper.pdf)
 
 ## Links
-- [**M3-org Research**](https://github.com/M3-org/research) - Open research conducted by builders and makers of the Metaverse
+- [**M3-org Research**](https://github.com/M3-org/research) - Community for builders and makers of the open metaverse
 - [urn-namespaces](https://github.com/common-metaverse/urn-namespaces) - A common identifier for assets across the metaverse
 - [Anarchy Arcade](http://anarchyarcade.com/) - Advanced 3D desktop and shortcut launcher built on Source engine
   - [MetaShortcutFormat](https://github.com/smsithlord/MetaShortcutFormat) - Spec to dynamically generate rich presence representations for generic shortcuts
@@ -141,4 +166,5 @@ List of awesome projects and information resources about the [Metaverse](https:/
   - [Solipsis Presentation](https://drive.google.com/file/d/0B3u--BesWlB9TFZEU3VSaHFxZzA/view?resourcekey=0-Ct-JzP6cJP9dY0G5iBgMTA) - Slideshow version
 - [3D Virtual Worlds and the Metaverse](https://drive.google.com/file/d/0B3u--BesWlB9NUNHN2VqbVRrejg/view) - Current Status and Future Possibilities
 - [Metaverse Reading List](https://gist.github.com/TrevorFSmith/411561c640bf060c9c18fe4d5ac5e455) - Topics for informed metaverse discussion by TrevorFSmith
-- [xrdevlog.com](https://xrdevlog.com) - Metaverse interoperability projects and experiments
+- [Raph Koster's Website](https://www.raphkoster.com/2007/10/10/interoperability/) - Industry veteran that has been working on virtual worlds and interop for decades
+- [xrdevlog.com](https://xrdevlog.com) - Metaverse interoperability projects and experiments by [dankvr](https://twitter.com/dankvr)
