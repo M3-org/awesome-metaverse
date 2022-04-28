@@ -15,7 +15,7 @@ List of awesome projects and information resources about the [Metaverse](https:/
   - [Awesome WebXR 2](https://github.com/msurguy/awesome-webxr)
 - [Zesty Market](https://app.zesty.market/) - A marketplace for rentable NFT banner spaces in XR
 - [Web3XR](https://web3xr.com) - Site explaining the intersection of Web3 and WebXR technologies, WIP
-- 
+
 
 ## Social VR
 
