@@ -55,7 +55,7 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [FrameVR](https://learn.framevr.io/) - No-code creation of browser based virtual worlds
 - [oncyber](https://oncyber.io/) - Easy platform to display NFTs in a virtual world, built on threejs
 - [Monaverse](https://www.mona.gallery/) - Mint and display 3D spaces in Unity webgl powered 3D worlds, VR support soon
-[Over](https://www.overthereality.ai/)  - OVER is the decentralized infrastructure for the AR Metaverse, merging the physical and virtual world through Augmented Reality, creating a new dimension where everything is possible.
+- [Over](https://www.overthereality.ai/)  - OVER is the decentralized infrastructure for the AR Metaverse, merging the physical and virtual world through Augmented Reality, creating a new dimension where everything is possible.
 
 **2D Platforms**
 
