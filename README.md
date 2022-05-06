@@ -57,6 +57,8 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [Monaverse](https://www.mona.gallery/) - Mint and display 3D spaces in Unity webgl powered 3D worlds, VR support soon
 - [Over](https://www.overthereality.ai/)  - OVER is the decentralized infrastructure for the AR Metaverse, merging the physical and virtual world through Augmented Reality, creating a new dimension where everything is possible.
 - [AltspaceVR](https://altvr.com/) AltspaceVR is the place to go for live virtual events and experiences. Connect with cool people and create lasting memories – in both VR and 2D.
+
+
 **2D Platforms**
 
 - [Worldwide Web3](https://webb.game/) - Free to play interoperable MMORPG metaverse project on Ethereum, closed source
