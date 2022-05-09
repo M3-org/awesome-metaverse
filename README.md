@@ -15,7 +15,7 @@ List of awesome projects and information resources about the [Metaverse](https:/
   - [Awesome WebXR 2](https://github.com/msurguy/awesome-webxr)
 - [Zesty Market](https://app.zesty.market/) - A marketplace for rentable NFT banner spaces in XR
 - [Web3XR](https://web3xr.com) - Site explaining the intersection of Web3 and WebXR technologies, WIP
-- 
+
 
 ## Social VR
 
@@ -55,6 +55,9 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [FrameVR](https://learn.framevr.io/) - No-code creation of browser based virtual worlds
 - [oncyber](https://oncyber.io/) - Easy platform to display NFTs in a virtual world, built on threejs
 - [Monaverse](https://www.mona.gallery/) - Mint and display 3D spaces in Unity webgl powered 3D worlds, VR support soon
+- [Over](https://www.overthereality.ai/)  - OVER is the decentralized infrastructure for the AR Metaverse, merging the physical and virtual world through Augmented Reality, creating a new dimension where everything is possible.
+- [AltspaceVR](https://altvr.com/) AltspaceVR is the place to go for live virtual events and experiences. Connect with cool people and create lasting memories – in both VR and 2D.
+
 
 **2D Platforms**
 
