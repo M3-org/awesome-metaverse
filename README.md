@@ -15,7 +15,7 @@ List of awesome projects and information resources about the [Metaverse](https:/
   - [Awesome WebXR 2](https://github.com/msurguy/awesome-webxr)
 - [Zesty Market](https://app.zesty.market/) - A marketplace for rentable NFT banner spaces in XR
 - [Web3XR](https://web3xr.com) - Site explaining the intersection of Web3 and WebXR technologies, WIP
-- 
+- [Glitch WebXR tutorials](https://glitch.com/webxr) - Editable templates and guides for making your own WebXR sites
 
 ## Social VR
 
@@ -24,6 +24,7 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [JanusWeb](https://github.com/jbaicoianu/janusweb) - Web framework for building interconnected virtual reality experiences
   - [Janus Guide](https://janusvr.github.io/guide/#/) - Learn to build open source self-hosted virtual worlds connected by portals
 - [a-frame](https://aframe.io/) - JS framework for building 3D/AR/VR experiences
+  - [Exokit Avatar Component](https://github.com/msub2/aframe-exokit-avatars) - Importing full IK avatars into aframe webxr apps
 - [Hubs](https://hubs.mozilla.com/) - Multi-user virtual spaces in WebXR, made by Mozilla
 - ~~[High Fidelity](https://github.com/highfidelity)~~ - Open source VR software platform (Deprecated)
 - [Vircadia](https://vircadia.com) - Community maintained fork of High Fidelity
