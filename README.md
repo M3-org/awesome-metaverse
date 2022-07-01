@@ -32,6 +32,8 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [Decentraland](https://github.com/decentraland) - A blockchain-based virtual world (not VR yet)
 - [Webaverse](https://github.com/webaverse) - 100% open source web based metaverse / game engine
 - [XR3ngine](https://github.com/xr3ngine/xr3ngine) - Open source framework for building scalable realtime social apps
+- [Croquet](https://croquet.io/croquet-os/) -  A new web-based operating system that runs on any device
+
 
 **Open Source Tools**
 
@@ -82,13 +84,14 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [Ethereum](https://ethereum.org/learn/) - Decentralized world computer
 - [WebXR](https://immersive-web.github.io/webxr/) - Accessing VR/AR hardware on the web
 - [Open Metaverse Interoperability group (OMI)](https://omigroup.org) - Working group for open protocols / standards
+- [Metaverse Standards Forum](https://metaverse-standards.org/) - a new venue for cooperation between standards organizations and companies to foster the development of interoperability standards for an open and inclusive metaverse.
 
 ## Books
 
 **Sci-Fi**
 
 - [Neuromancer](https://en.wikipedia.org/wiki/Neuromancer) - (80s) Defined the Cyberpunk genre and the term Cyberspace
-- [**Snow Crash**](https://en.wikipedia.org/wiki/Snow_Crash) - (90s) Coined the term Metaverse as a successor to the Internet
+- [**Snow Crash**](https://en.wikipedia.org/wiki/Snow_Crash) - (90s) Coined the term Metaverse as a successor to the Internet, author Neal Stephenson recently cofounded [Lamina1](https://www.lamina1.com/).
 - [Ready Player One](https://en.wikipedia.org/wiki/Ready_Player_One) - (2011) Hit book that later became a Spielberg movie
 - [Ready Player Two](https://www.amazon.com/Ready-Player-Two-Ernest-Cline/dp/1524761338) - (2020) Sequel to Ready Player One
 - [Rainbows End](https://en.wikipedia.org/wiki/Rainbows_End) - (2006)  Increasingly digital/virtual world with ubiquitous computing
