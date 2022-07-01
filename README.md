@@ -56,6 +56,7 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [FrameVR](https://learn.framevr.io/) - No-code creation of browser based virtual worlds
 - [oncyber](https://oncyber.io/) - Easy platform to display NFTs in a virtual world, built on threejs
 - [Monaverse](https://www.mona.gallery/) - Mint and display 3D spaces in Unity webgl powered 3D worlds, VR support soon
+- [RP1](https://rp1.com/index.html) - An upcoming platform "that can synchronously connect hundreds of millions of users to one another in a real-time, persistent virtual world, without the need for sharding."
 
 **2D Platforms**
 
@@ -80,7 +81,7 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [VRM](https://vrm.dev/en/) - File format for 3D humanoid avatars
 - [Ethereum](https://ethereum.org/learn/) - Decentralized world computer
 - [WebXR](https://immersive-web.github.io/webxr/) - Accessing VR/AR hardware on the web
-- [Open Metaverse Interoperability](https://github.com/omigroup/OMI) - Working group for open protocols / standards
+- [Open Metaverse Interoperability](https://github.com/omigroup/OMIgroup) - Working group for open protocols / standards
 
 ## Books
 
@@ -133,6 +134,7 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [Building the Metaverse with janusVR](https://www.roadtovr.com/building-metaverse-janusvr/) - From 2015 but still relevant for building 3D internet experiences 
 - [The Seven Rules of the Metaverse](https://medium.com/meta-verses/the-seven-rules-of-the-metaverse-7d4e06fa864c) - A framework for the coming immersive reality by auradeluxe
 - [Building the Open Metaverse Podcast](https://www.youtube.com/channel/UCCMEsdydTLm-e7gI10v_quA) - Hosted by Patrick Cozzi (Cesium) and Marc Petit (Epic Games)
+- [IPSME - Dr. Kim Nevelsteen](https://kim.nevelsteen.com/) - Idempotent Publish/Subscribe Messaging Environment (IPSME) can be used for both client-side and server-side interoperability, or between blockchains; systems can be integrated without being taken down and re-engineered; avoids the need for standardization and supports legacy systems; and, reduces the complexity of integrating systems.
 
 **Crypto**
 
@@ -169,3 +171,6 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [Metaverse Reading List](https://gist.github.com/TrevorFSmith/411561c640bf060c9c18fe4d5ac5e455) - Topics for informed metaverse discussion by TrevorFSmith
 - [Raph Koster's Website](https://www.raphkoster.com/2007/10/10/interoperability/) - Industry veteran that has been working on virtual worlds and interop for decades
 - [xrdevlog.com](https://xrdevlog.com) - Metaverse interoperability projects and experiments by [dankvr](https://twitter.com/dankvr)
+- [AngellXR](https://angellxr.com/) - A Metaverse Incubation Community championing interoperability and collaboration. 
+- [XRShowcase](https://xrshowcase.xyz) - A fun collection of web-based XR experiences. 
+
