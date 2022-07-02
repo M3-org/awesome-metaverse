@@ -32,6 +32,8 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [Decentraland](https://github.com/decentraland) - A blockchain-based virtual world (not VR yet)
 - [Webaverse](https://github.com/webaverse) - 100% open source web based metaverse / game engine
 - [XR3ngine](https://github.com/xr3ngine/xr3ngine) - Open source framework for building scalable realtime social apps
+- [Croquet](https://croquet.io/croquet-os/) -  A new web-based operating system that runs on any device
+
 
 **Open Source Tools**
 
@@ -56,6 +58,7 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [FrameVR](https://learn.framevr.io/) - No-code creation of browser based virtual worlds
 - [oncyber](https://oncyber.io/) - Easy platform to display NFTs in a virtual world, built on threejs
 - [Monaverse](https://www.mona.gallery/) - Mint and display 3D spaces in Unity webgl powered 3D worlds, VR support soon
+- [RP1](https://rp1.com/index.html) - An upcoming platform "that can synchronously connect hundreds of millions of users to one another in a real-time, persistent virtual world, without the need for sharding."
 
 **2D Platforms**
 
@@ -80,14 +83,15 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [VRM](https://vrm.dev/en/) - File format for 3D humanoid avatars
 - [Ethereum](https://ethereum.org/learn/) - Decentralized world computer
 - [WebXR](https://immersive-web.github.io/webxr/) - Accessing VR/AR hardware on the web
-- [Open Metaverse Interoperability](https://github.com/omigroup/OMI) - Working group for open protocols / standards
+- [Open Metaverse Interoperability group (OMI)](https://omigroup.org) - Working group for open protocols / standards
+- [Metaverse Standards Forum](https://metaverse-standards.org/) - a new venue for cooperation between standards organizations and companies to foster the development of interoperability standards for an open and inclusive metaverse.
 
 ## Books
 
 **Sci-Fi**
 
 - [Neuromancer](https://en.wikipedia.org/wiki/Neuromancer) - (80s) Defined the Cyberpunk genre and the term Cyberspace
-- [**Snow Crash**](https://en.wikipedia.org/wiki/Snow_Crash) - (90s) Coined the term Metaverse as a successor to the Internet
+- [**Snow Crash**](https://en.wikipedia.org/wiki/Snow_Crash) - (90s) Coined the term Metaverse as a successor to the Internet, author Neal Stephenson recently cofounded [Lamina1](https://www.lamina1.com/).
 - [Ready Player One](https://en.wikipedia.org/wiki/Ready_Player_One) - (2011) Hit book that later became a Spielberg movie
 - [Ready Player Two](https://www.amazon.com/Ready-Player-Two-Ernest-Cline/dp/1524761338) - (2020) Sequel to Ready Player One
 - [Rainbows End](https://en.wikipedia.org/wiki/Rainbows_End) - (2006)  Increasingly digital/virtual world with ubiquitous computing
@@ -133,6 +137,7 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [Building the Metaverse with janusVR](https://www.roadtovr.com/building-metaverse-janusvr/) - From 2015 but still relevant for building 3D internet experiences 
 - [The Seven Rules of the Metaverse](https://medium.com/meta-verses/the-seven-rules-of-the-metaverse-7d4e06fa864c) - A framework for the coming immersive reality by auradeluxe
 - [Building the Open Metaverse Podcast](https://www.youtube.com/channel/UCCMEsdydTLm-e7gI10v_quA) - Hosted by Patrick Cozzi (Cesium) and Marc Petit (Epic Games)
+- [IPSME - Dr. Kim Nevelsteen](https://kim.nevelsteen.com/) - Idempotent Publish/Subscribe Messaging Environment (IPSME) can be used for both client-side and server-side interoperability, or between blockchains; systems can be integrated without being taken down and re-engineered; avoids the need for standardization and supports legacy systems; and, reduces the complexity of integrating systems.
 
 **Crypto**
 
@@ -169,3 +174,6 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [Metaverse Reading List](https://gist.github.com/TrevorFSmith/411561c640bf060c9c18fe4d5ac5e455) - Topics for informed metaverse discussion by TrevorFSmith
 - [Raph Koster's Website](https://www.raphkoster.com/2007/10/10/interoperability/) - Industry veteran that has been working on virtual worlds and interop for decades
 - [xrdevlog.com](https://xrdevlog.com) - Metaverse interoperability projects and experiments by [dankvr](https://twitter.com/dankvr)
+- [AngellXR](https://angellxr.com/) - A Metaverse Incubation Community championing interoperability and collaboration. 
+- [XRShowcase](https://xrshowcase.xyz) - A fun collection of web-based XR experiences. 
+
