@@ -59,6 +59,7 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [oncyber](https://oncyber.io/) - Easy platform to display NFTs in a virtual world, built on threejs
 - [Monaverse](https://www.mona.gallery/) - Mint and display 3D spaces in Unity webgl powered 3D worlds, VR support soon
 - [RP1](https://rp1.com/index.html) - An upcoming platform "that can synchronously connect hundreds of millions of users to one another in a real-time, persistent virtual world, without the need for sharding."
+- [AltspaceVR](https://altvr.com/) - AltspaceVR is the leading platform for live, virtual events, empowering artists, brands and businesses 
 
 **2D Platforms**
 
