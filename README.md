@@ -25,7 +25,9 @@ List of awesome projects and information resources about the [Metaverse](https:/
   - [Janus Guide](https://janusvr.github.io/guide/#/) - Learn to build open source self-hosted virtual worlds connected by portals
 - [a-frame](https://aframe.io/) - JS framework for building 3D/AR/VR experiences
   - [Exokit Avatar Component](https://github.com/msub2/aframe-exokit-avatars) - Importing full IK avatars into aframe webxr apps
+  - [Integrating Augmented Reality Objects into the Real World with Light and Shadows](https://medium.com/samsung-internet-dev/integrating-augmented-reality-objects-into-the-real-world-with-light-and-shadows-12123e7b1151) - Guide by Ada Rose Cannon
 - [Hubs](https://hubs.mozilla.com/) - Multi-user virtual spaces in WebXR, made by Mozilla
+  - [Hubs Creator Labs](https://hubs.mozilla.com/labs/) - Inspiration, creativity and knowledge that transcends Hubs
 - ~~[High Fidelity](https://github.com/highfidelity)~~ - Open source VR software platform (Deprecated)
 - [Vircadia](https://vircadia.com) - Community maintained fork of High Fidelity
 - ~~[Tivoli Cloud](https://tivolicloud.com/)~~ - Open source fork of High Fidelity
@@ -84,7 +86,7 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [Ethereum](https://ethereum.org/learn/) - Decentralized world computer
 - [WebXR](https://immersive-web.github.io/webxr/) - Accessing VR/AR hardware on the web
 - [Open Metaverse Interoperability group (OMI)](https://omigroup.org) - Working group for open protocols / standards
-- [Metaverse Standards Forum](https://metaverse-standards.org/) - a new venue for cooperation between standards organizations and companies to foster the development of interoperability standards for an open and inclusive metaverse.
+- [Metaverse Standards Forum](https://metaverse-standards.org/) - a new venue for cooperation between standards organizations and companies to foster the development of interoperability standards for an open and inclusive metaverse
 
 ## Books
 
@@ -93,7 +95,7 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [Neuromancer](https://en.wikipedia.org/wiki/Neuromancer) - (80s) Defined the Cyberpunk genre and the term Cyberspace
 - [**Snow Crash**](https://en.wikipedia.org/wiki/Snow_Crash) - (90s) Coined the term Metaverse as a successor to the Internet, author Neal Stephenson recently cofounded [Lamina1](https://www.lamina1.com/).
 - [Ready Player One](https://en.wikipedia.org/wiki/Ready_Player_One) - (2011) Hit book that later became a Spielberg movie
-- [Ready Player Two](https://www.amazon.com/Ready-Player-Two-Ernest-Cline/dp/1524761338) - (2020) Sequel to Ready Player One
+  - [Ready Player Two](https://www.amazon.com/Ready-Player-Two-Ernest-Cline/dp/1524761338) - (2020) Sequel to Ready Player One
 - [Rainbows End](https://en.wikipedia.org/wiki/Rainbows_End) - (2006)  Increasingly digital/virtual world with ubiquitous computing
 - [Idoru](https://en.wikipedia.org/wiki/Idoru) - Virtual celebrities and decentralized virtual worlds, Book #2 in Bridge Trilogy
 
@@ -137,7 +139,8 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [Building the Metaverse with janusVR](https://www.roadtovr.com/building-metaverse-janusvr/) - From 2015 but still relevant for building 3D internet experiences 
 - [The Seven Rules of the Metaverse](https://medium.com/meta-verses/the-seven-rules-of-the-metaverse-7d4e06fa864c) - A framework for the coming immersive reality by auradeluxe
 - [Building the Open Metaverse Podcast](https://www.youtube.com/channel/UCCMEsdydTLm-e7gI10v_quA) - Hosted by Patrick Cozzi (Cesium) and Marc Petit (Epic Games)
-- [IPSME - Dr. Kim Nevelsteen](https://kim.nevelsteen.com/) - Idempotent Publish/Subscribe Messaging Environment (IPSME) can be used for both client-side and server-side interoperability, or between blockchains; systems can be integrated without being taken down and re-engineered; avoids the need for standardization and supports legacy systems; and, reduces the complexity of integrating systems.
+- [IPSME - Dr. Kim Nevelsteen](https://kim.nevelsteen.com/) - Idempotent Publish/Subscribe Messaging Environment (IPSME) can be used for both client-side and server-side interoperability, or between blockchains; systems can be integrated without being taken down and re-engineered; avoids the need for standardization and supports legacy systems; and, reduces the complexity of integrating systems
+- [How the Open Metaverse Will Transform Our Online Identities](https://thenewstack.io/how-the-open-metaverse-will-transform-our-online-identities/) - Interview with maintainer of this awesome list by Richard MacManus
 
 **Crypto**
 
@@ -151,6 +154,8 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [The Great Online Game](https://www.notboring.co/p/the-great-online-game) - Blog post about the multiplayer meta game of the Internet
 - [A Primer on VR & the Blockchain](https://medium.com/@kentbye/a-primer-on-vr-the-blockchain-20-big-ideas-about-the-decentralized-metaverse-c0f4c5e204f9) - 20 Big Ideas about the Decentralized Metaverse by Kent Bye
 - [CC0 Compendium](https://jpg.space/0x08ceb8bba685ee708c9c4c65576837cbe19b9dea/CC0-Compendium) - curated selection of resources about CC0 NFT projects
+- [7 Essential Ingredients of a Metaverse](https://future.com/7-essential-ingredients-of-a-metaverse/) - Article by a16z on what distinguishes virtual worlds from an open metaverse
+- [Metaversal | Bankless](https://metaversal.banklesshq.com/) - a top newsletter about crypto and metaverse by William M. Peaster
 
 ## White Papers
 
@@ -176,4 +181,4 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [xrdevlog.com](https://xrdevlog.com) - Metaverse interoperability projects and experiments by [dankvr](https://twitter.com/dankvr)
 - [AngellXR](https://angellxr.com/) - A Metaverse Incubation Community championing interoperability and collaboration. 
 - [XRShowcase](https://xrshowcase.xyz) - A fun collection of web-based XR experiences. 
-
+- [The Design of Virtual and Augmented Reality](https://aliheston.gitbook.io/the-design-of-virtual-and-augmented-reality/) - Writeups by Alexandria Heston
