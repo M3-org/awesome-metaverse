@@ -35,6 +35,7 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [Webaverse](https://github.com/webaverse) - 100% open source web based metaverse / game engine
 - [XR3ngine](https://github.com/xr3ngine/xr3ngine) - Open source framework for building scalable realtime social apps
 - [Croquet](https://croquet.io/croquet-os/) -  A new web-based operating system that runs on any device
+- [Harfang 3D](https://github.com/harfang3d/harfang3d) - 3D engine for Python, Go, Lua, C++ (VR, physics, audio)
 
 
 **Open Source Tools**
@@ -63,6 +64,7 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [RP1](https://rp1.com/index.html) - An upcoming platform "that can synchronously connect hundreds of millions of users to one another in a real-time, persistent virtual world, without the need for sharding."
 - [AltspaceVR](https://altvr.com/) - AltspaceVR is a leading platform for live events, artists, brands and businesses
 - [Hyperfy](https://hyperfy.io/) - webxr enabled platform that lets you own and build anything you can imagine
+- [Harfang Studio](https://www.harfang3d.com/en_US/studio) - 3D editor (unlimited free evaluation) for [Harfang 3D](https://github.com/harfang3d/harfang3d)
 
 **2D Platforms**
 
