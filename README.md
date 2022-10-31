@@ -63,7 +63,7 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [RP1](https://rp1.com/index.html) - An upcoming platform "that can synchronously connect hundreds of millions of users to one another in a real-time, persistent virtual world, without the need for sharding."
 - [AltspaceVR](https://altvr.com/) - AltspaceVR is a leading platform for live events, artists, brands and businesses
 - [Hyperfy](https://hyperfy.io/) - webxr enabled platform that lets you own and build anything you can imagine
-- [Improbable Worlds Ltd](https://www.improbable.io) - [Developing] technology that enables enhanced social interaction and sense of presence inside virtual spaces, where over 10,000 real users can interact in high-fidelity, lag-free environments, at the same time and in the same place.
+- [Improbable Worlds Ltd](https://www.improbable.io) - A multinational technology company focused on developing "technology that enables enhanced social interaction and sense of presence inside virtual spaces, where over 10,000 real users can interact in high-fidelity, lag-free environments, at the same time and in the same place."
 
 **2D Platforms**
 
@@ -106,7 +106,7 @@ List of awesome projects and information resources about the [Metaverse](https:/
 
 - [The Spatial Web](https://www.amazon.com/Spatial-Web-connect-machines-transform/dp/0578562960/) - How web 3.0 will connect humans, machines and AI to transform the world
 - [The Metaverse: And How it Will Revolutionize Everything](https://www.amazon.com/Metaverse-How-Will-Revolutionize-Everything/dp/1324092033) - Upcoming book by Matthew Ball
-- [Virtual Society: The Metaverse and the New Frontiers of Human Experience](https://www.amazon.com/Virtual-Society-Metaverse-Frontiers-Experience-ebook/dp/B09Q8HG6ZX) - Recently published book by Herman Narula, co-founder and CEO of [Improbable Worlds Limited](https://www.improbable.io),
+- [Virtual Society: The Metaverse and the New Frontiers of Human Experience](https://www.amazon.com/Virtual-Society-Metaverse-Frontiers-Experience-ebook/dp/B09Q8HG6ZX) - Recently published book by Herman Narula, co-founder and CEO of [Improbable Worlds Limited](https://www.improbable.io)
 
 ## Media
 
