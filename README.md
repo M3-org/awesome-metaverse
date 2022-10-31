@@ -45,7 +45,7 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [Three.js editor](https://threejs.org/editor/) - Web editor for [three.js](https://threejs.org/)
 - [Babylonjs editor](http://editor.babylonjs.com/) - Web editor for [babylon.js](https://www.babylonjs.com/)
 
-**Non-free**
+**Non-free Tools**
 
 - [Cryptovoxels](https://github.com/cryptovoxels) - Virtual world owned by its users
 - [Somnium Space](https://somniumspace.com/) - Persistent blockchain based virtual world
@@ -63,6 +63,7 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [RP1](https://rp1.com/index.html) - An upcoming platform "that can synchronously connect hundreds of millions of users to one another in a real-time, persistent virtual world, without the need for sharding."
 - [AltspaceVR](https://altvr.com/) - AltspaceVR is a leading platform for live events, artists, brands and businesses
 - [Hyperfy](https://hyperfy.io/) - webxr enabled platform that lets you own and build anything you can imagine
+- [Cavrnus](https://www.cavrn.us/) - Cavrnus™ empowers every enterprise, brand and creator to easily design, build and share their vision of a destination metaverse on the experience Internet with anyone, anywhere, on any device at scale. Instantly and easily connect your application to the metaverse for experiences or use Unreal Editor as a multi-user collaboration with our no-code/low-code plugin (Cavrnus Metaverse Connector™).
 
 **2D Platforms**
 
