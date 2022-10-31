@@ -63,6 +63,7 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [RP1](https://rp1.com/index.html) - An upcoming platform "that can synchronously connect hundreds of millions of users to one another in a real-time, persistent virtual world, without the need for sharding."
 - [AltspaceVR](https://altvr.com/) - AltspaceVR is a leading platform for live events, artists, brands and businesses
 - [Hyperfy](https://hyperfy.io/) - webxr enabled platform that lets you own and build anything you can imagine
+- [Improbable Worlds Ltd](https://www.improbable.io) - [Developing] technology that enables enhanced social interaction and sense of presence inside virtual spaces, where over 10,000 real users can interact in high-fidelity, lag-free environments, at the same time and in the same place.
 
 **2D Platforms**
 
