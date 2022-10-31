@@ -105,6 +105,7 @@ List of awesome projects and information resources about the [Metaverse](https:/
 
 - [The Spatial Web](https://www.amazon.com/Spatial-Web-connect-machines-transform/dp/0578562960/) - How web 3.0 will connect humans, machines and AI to transform the world
 - [The Metaverse: And How it Will Revolutionize Everything](https://www.amazon.com/Metaverse-How-Will-Revolutionize-Everything/dp/1324092033) - Upcoming book by Matthew Ball
+- [Virtual Society: The Metaverse and the New Frontiers of Human Experience](https://www.amazon.com/Virtual-Society-Metaverse-Frontiers-Experience-ebook/dp/B09Q8HG6ZX) - Recently published book by Herman Narula, co-founder and CEO of ]Improbable Worlds Limited](https://www.improbable.io),
 
 ## Media
 
