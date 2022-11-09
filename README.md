@@ -40,6 +40,12 @@ List of awesome projects and information resources about the [Metaverse](https:/
 **Open Source Tools**
 
 - [Blender](https://blender.org/) - #1 open tool for 3D creation, modeling, and much more
+  - [Hubs Blender Exporter](https://github.com/MozillaReality/hubs-blender-exporter)
+  - [Webaverse Blender Exporter](https://github.com/webaverse/blender-plugin)
+  - [Godot Blender Exporter](https://github.com/godotengine/godot-blender-exporter)
+  - [Babylonjs Blender Exporter](https://github.com/BabylonJS/BlenderExporter)
+  - [Sketchfab plugin](https://github.com/sketchfab/blender-plugin/releases/tag/1.5.0)
+  - [Polyhaven](https://github.com/Poly-Haven/polyhavenassets)
 - [Spoke](https://github.com/mozilla/spoke) - Easily create custom 3D environments
 - [Open Brush](https://openbrush.app/) - Derivative made from the open source code of Tilt Brush
 - [Three.js editor](https://threejs.org/editor/) - Web editor for [three.js](https://threejs.org/)
@@ -78,6 +84,9 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [Cryptoavatars](https://cryptoavatars.io/) - Unique VRM avatars on the Ethereum blockchain
 - [Mixamo](https://www.mixamo.com/) - Easy tool to rig and animate characters, by Adobe
 - [Booth.pm](https://booth.pm/) - Indie marketplace that contains many 3D avatar / world assets
+
+
+
 
 ## Protocols and Standards
 
