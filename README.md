@@ -20,7 +20,7 @@ issues, and comments. You can also reach us through [discord](https://discord.gg
     - [Science Fiction](#sci-fi)
     - [Non-fiction](#non-fiction)
 - [Media](#media)
-  - [Movies](#movies)
+    - [Movies](#movies)
 - [Articles & Blogs](#articles-and-blogs)
 - [Crypto](#crypto)
 - [White Papers](#white-papers)
@@ -44,6 +44,8 @@ issues, and comments. You can also reach us through [discord](https://discord.gg
 - [Zesty Market](https://app.zesty.market/) - A marketplace for rentable NFT banner spaces in XR
 - [Web3XR](https://web3xr.com) - Site explaining the intersection of Web3 and WebXR technologies, WIP
 - [Glitch WebXR tutorials](https://glitch.com/webxr) - Editable templates and guides for making your own WebXR sites
+
+---
 
 ## Social VR
 
@@ -114,6 +116,8 @@ issues, and comments. You can also reach us through [discord](https://discord.gg
 - [Work Adventure](https://workadventu.re) - collaborative virtual office web app presented as a 16-bit RPG video game,
   open source
 
+---
+
 ## Avatar Providers
 
 - [Ready Player Me](https://readyplayer.me/) - Cross-game Avatar Platform for the Metaverse
@@ -121,6 +125,8 @@ issues, and comments. You can also reach us through [discord](https://discord.gg
 - [Cryptoavatars](https://cryptoavatars.io/) - Unique VRM avatars on the Ethereum blockchain
 - [Mixamo](https://www.mixamo.com/) - Easy tool to rig and animate characters, by Adobe
 - [Booth.pm](https://booth.pm/) - Indie marketplace that contains many 3D avatar / world assets
+
+---
 
 ## Protocols and Standards
 
@@ -134,6 +140,8 @@ issues, and comments. You can also reach us through [discord](https://discord.gg
 - [Metaverse Standards Forum](https://metaverse-standards.org/) - a new venue for cooperation between standards
   organizations and companies to foster the development of interoperability standards for an open and inclusive
   metaverse
+
+---
 
 ## Books
 
@@ -158,7 +166,7 @@ issues, and comments. You can also reach us through [discord](https://discord.gg
 - [The Metaverse: And How it Will Revolutionize Everything](https://www.amazon.com/Metaverse-How-Will-Revolutionize-Everything/dp/1324092033) -
   Upcoming book by Matthew Ball
 
-## Media
+---
 
 ## Media
 
@@ -187,15 +195,33 @@ issues, and comments. You can also reach us through [discord](https://discord.gg
 - [Tron: Legacy](https://www.imdb.com/title/tt1104001/) - The son of a virtual world designer goes looking for his
   father and ends up inside the digital world that his father designed. He meets his father's corrupted creation and a
   unique ally who was born inside the digital world.
-- [Wreck-It Ralph](https://www.imdb.com/title/tt1772341/) - A video game villain wants to be a hero and sets out to fulfill his dream, but his quest brings havoc to the whole arcade where he lives.
-- [Ralph Breaks the Internet](https://www.imdb.com/title/tt5848272/) - Six years after the events of "Wreck-It Ralph," Ralph and Vanellope, now friends, discover a wi-fi router in their arcade, leading them into a new adventure.
-- [Wreck-It Ralph 2](https://www.imdb.com/title/tt9144066/) - Based off Ralph Breaks the Internet, experience the cooperative virtual reality adventure as you help Ralph and Venellope escape a security program who erases every type of virus.
-- [Ready Player One](https://www.imdb.com/title/tt1677720/) - When the creator of a virtual reality called the OASIS dies, he makes a posthumous challenge to all OASIS users to find his Easter Egg, which will give the finder his fortune and control of his world.
-- [Black Mirror](https://www.imdb.com/title/tt2085059/) ([USS Callister](https://www.imdb.com/title/tt5710974/) & [San Junipero](https://www.imdb.com/title/tt4538072/) in particular) - An anthology series exploring a twisted, high-tech multiverse where humanity's greatest innovations and darkest instincts collide.
-- [Upload](https://www.imdb.com/title/tt7826376/) - A man is able to choose his own afterlife after his untimely death, by having his consciousness uploaded into a virtual world. As he gets used to his new life and befriends his angel (real world handler), questions about his death arise.
-- [Inception](https://www.imdb.com/title/tt1375666/) - A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.
-- [Surrogates](https://www.imdb.com/title/tt0986263/) - Set in a futuristic world where humans live in isolation and interact through surrogate robots, a cop is forced to leave his home for the first time in years in order to investigate the murders of others' surrogates.
-- [Total Recall](https://www.imdb.com/title/tt1386703/) - A factory worker, Douglas Quaid, begins to suspect that he is a spy after visiting Rekall - a company that provides its clients with implanted fake memories of a life they would like to have led - goes wrong and he finds himself on the run.
+- [Wreck-It Ralph](https://www.imdb.com/title/tt1772341/) - A video game villain wants to be a hero and sets out to
+  fulfill his dream, but his quest brings havoc to the whole arcade where he lives.
+- [Ralph Breaks the Internet](https://www.imdb.com/title/tt5848272/) - Six years after the events of "Wreck-It Ralph,"
+  Ralph and Vanellope, now friends, discover a wi-fi router in their arcade, leading them into a new adventure.
+- [Wreck-It Ralph 2](https://www.imdb.com/title/tt9144066/) - Based off Ralph Breaks the Internet, experience the
+  cooperative virtual reality adventure as you help Ralph and Venellope escape a security program who erases every type
+  of virus.
+- [Ready Player One](https://www.imdb.com/title/tt1677720/) - When the creator of a virtual reality called the OASIS
+  dies, he makes a posthumous challenge to all OASIS users to find his Easter Egg, which will give the finder his
+  fortune and control of his world.
+- [Black Mirror](https://www.imdb.com/title/tt2085059/) ([USS Callister](https://www.imdb.com/title/tt5710974/) & [San Junipero](https://www.imdb.com/title/tt4538072/)
+  in particular) - An anthology series exploring a twisted, high-tech multiverse where humanity's greatest innovations
+  and darkest instincts collide.
+- [Upload](https://www.imdb.com/title/tt7826376/) - A man is able to choose his own afterlife after his untimely death,
+  by having his consciousness uploaded into a virtual world. As he gets used to his new life and befriends his angel (
+  real world handler), questions about his death arise.
+- [Inception](https://www.imdb.com/title/tt1375666/) - A thief who steals corporate secrets through the use of
+  dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past
+  may doom the project and his team to disaster.
+- [Surrogates](https://www.imdb.com/title/tt0986263/) - Set in a futuristic world where humans live in isolation and
+  interact through surrogate robots, a cop is forced to leave his home for the first time in years in order to
+  investigate the murders of others' surrogates.
+- [Total Recall](https://www.imdb.com/title/tt1386703/) - A factory worker, Douglas Quaid, begins to suspect that he is
+  a spy after visiting Rekall - a company that provides its clients with implanted fake memories of a life they would
+  like to have led - goes wrong and he finds himself on the run.
+
+---
 
 ## Articles and Blogs
 
@@ -245,6 +271,8 @@ issues, and comments. You can also reach us through [discord](https://discord.gg
 - [How the Open Metaverse Will Transform Our Online Identities](https://thenewstack.io/how-the-open-metaverse-will-transform-our-online-identities/) -
   Interview with maintainer of this awesome list by Richard MacManus
 
+---
+
 ## Crypto
 
 - [Into the Void: Where Crypto Meets The Metaverse](https://twitter.com/pierskicks/status/1353420599368978432) - Piers
@@ -270,12 +298,16 @@ issues, and comments. You can also reach us through [discord](https://discord.gg
 - [Metaversal | Bankless](https://metaversal.banklesshq.com/) - a top newsletter about crypto and metaverse by William
   M. Peaster
 
+---
+
 ## White Papers
 
 - [Somnium Space Economy](https://somniumspace.com/files/Somnium%20Space%20Economy%20Paper.pdf)
 - [The Sandbox Game Whitepaper](https://installers.sandbox.game/The_Sandbox_Whitepaper_2020.pdf)
 - [Decentraland Whitepaper](https://decentraland.org/whitepaper.pdf)
 - [Webaverse Whitepaper](https://github.com/webaverse/whitepaper/blob/master/whitepaper.pdf)
+
+---
 
 ## Links
 
