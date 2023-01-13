@@ -4,15 +4,21 @@ List of awesome projects and information resources about the [Metaverse](https:/
 there are many competing ideas about what the Metaverse is, feel free to leave feedback in the form of pull requests,
 issues, and comments. You can also reach us through [discord](https://discord.gg/m3org).
 
+- Elements marked with 🟢 are MIT-licensed.
+- Elements marked with ⚫ are not licensed.
+- Elements marked with 🟣 are under Mozilla Public License 2.0.
+- Elements marked with 🟠 are under Apache 2.0 License.
+- Elements marked with 🔴 are commercial / custom license.
+
 ---
 
 ## Table of Contents
 
 - [WebXR](#webxr)
 - [Social VR](#social-vr)
-    - [Open-Source Frameworks](#open-source-frameworks)
-    - [Open-Source Tools](#open-source-tools)
-    - [Commercial Frameworks & Tools](#commercial-frameworks--tools)
+  - [Open-Source Frameworks](#open-source-frameworks)
+  - [Open-Source Tools](#open-source-tools)
+  - [Commercial Frameworks & Tools](#commercial-frameworks--tools)
     - [2D Platforms](#2d-platforms)
 - [Avatar Providers](#avatar-providers)
 - [Protocols & Standards](#protocols-and-standards)
@@ -20,8 +26,9 @@ issues, and comments. You can also reach us through [discord](https://discord.gg
     - [Science Fiction](#sci-fi)
     - [Non-fiction](#non-fiction)
 - [Media](#media)
-    - [Movies](#movies)
-    - [Articles & Blogs](#articles-and-blogs)
+  - [Content Generation](#content-generation)
+  - [Movies](#movies)
+  - [Articles & Blogs](#articles-and-blogs)
 - [Crypto](#crypto)
 - [White Papers](#white-papers)
 - [Links](#links)
@@ -51,24 +58,36 @@ issues, and comments. You can also reach us through [discord](https://discord.gg
 
 ### Open Source Frameworks
 
-- [JanusWeb](https://github.com/jbaicoianu/janusweb) - Web framework for building interconnected virtual reality
-  experiences
-    - [Janus Guide](https://janusvr.github.io/guide/#/) - Learn to build open source self-hosted virtual worlds
-      connected by portals
-- [a-frame](https://aframe.io/) - JS framework for building 3D/AR/VR experiences
-    - [Exokit Avatar Component](https://github.com/msub2/aframe-exokit-avatars) - Importing full IK avatars into aframe
-      webxr apps
-    - [Integrating Augmented Reality Objects into the Real World with Light and Shadows](https://medium.com/samsung-internet-dev/integrating-augmented-reality-objects-into-the-real-world-with-light-and-shadows-12123e7b1151) -
-      Guide by Ada Rose Cannon
-- [Hubs](https://hubs.mozilla.com/) - Multi-user virtual spaces in WebXR, made by Mozilla
-    - [Hubs Creator Labs](https://hubs.mozilla.com/labs/) - Inspiration, creativity and knowledge that transcends Hubs
-- ~~[High Fidelity](https://github.com/highfidelity)~~ - Open source VR software platform (Deprecated)
-- [Vircadia](https://vircadia.com) - Community maintained fork of High Fidelity
-- ~~[Tivoli Cloud](https://tivolicloud.com/)~~ - Open source fork of High Fidelity
-- [Decentraland](https://github.com/decentraland) - A blockchain-based virtual world (not VR yet)
-- [Webaverse](https://github.com/webaverse) - 100% open source web based metaverse / game engine
-- [XR3ngine](https://github.com/xr3ngine/xr3ngine) - Open source framework for building scalable realtime social apps
-- [Croquet](https://croquet.io/croquet-os/) - A new web-based operating system that runs on any device
+🟢 [JanusWeb](https://github.com/jbaicoianu/janusweb) - Web framework for building interconnected virtual reality
+experiences.
+<br>
+⚫ [Janus Guide](https://janusvr.github.io/guide/#/) - Learn to build open source self-hosted virtual worlds
+connected by portals.
+<br>
+🟢 [a-frame](https://aframe.io/) - JS framework for building 3D/AR/VR experiences.
+<br>
+⚫ [Exokit Avatar Component](https://github.com/msub2/aframe-exokit-avatars) - Importing full IK avatars into aframe
+webxr apps.
+<br>
+[Integrating Augmented Reality Objects into the Real World with Light and Shadows](https://medium.com/samsung-internet-dev/integrating-augmented-reality-objects-into-the-real-world-with-light-and-shadows-12123e7b1151) -
+Guide by Ada Rose Cannon.
+<br>
+🟣 [Hubs](https://hubs.mozilla.com/) - Multi-user virtual spaces in WebXR, made by Mozilla.
+<br>
+[Hubs Creator Labs](https://hubs.mozilla.com/labs/) - Inspiration, creativity and knowledge that transcends Hubs.
+<br>
+⚫ ~~[High Fidelity](https://github.com/highfidelity)~~ - Open source VR software platform. (Deprecated)
+<br>
+🟠 [Vircadia](https://vircadia.com) - Community maintained fork of High Fidelity.
+<br>
+⚫ ~~[Tivoli Cloud](https://tivolicloud.com/)~~ - Open source fork of High Fidelity.
+<br>
+🟠 [Decentraland](https://github.com/decentraland) - A blockchain-based virtual world (not VR yet).
+<br>
+🟢 [Webaverse](https://github.com/webaverse) - 100% open source web based metaverse / game engine.
+<br>
+🔴 [XR3ngine](https://github.com/xr3ngine/xr3ngine) - Open source framework for building scalable realtime social apps.
+🔴 [Croquet](https://croquet.io/croquet-os/) - A new web-based operating system that runs on any device.
 
 ### Open Source Tools
 
@@ -147,79 +166,108 @@ issues, and comments. You can also reach us through [discord](https://discord.gg
 
 ### Sci-Fi
 
-- [Neuromancer](https://en.wikipedia.org/wiki/Neuromancer) - (80s) Defined the Cyberpunk genre and the term Cyberspace
-- [**Snow Crash**](https://en.wikipedia.org/wiki/Snow_Crash) - (90s) Coined the term Metaverse as a successor to the
-  Internet, author Neal Stephenson recently cofounded [Lamina1](https://www.lamina1.com/).
-- [Ready Player One](https://en.wikipedia.org/wiki/Ready_Player_One) - (2011) Hit book that later became a Spielberg
-  movie
-    - [Ready Player Two](https://www.amazon.com/Ready-Player-Two-Ernest-Cline/dp/1524761338) - (2020) Sequel to Ready
-      Player One
-- [Rainbows End](https://en.wikipedia.org/wiki/Rainbows_End) - (2006)  Increasingly digital/virtual world with
-  ubiquitous computing
-- [Idoru](https://en.wikipedia.org/wiki/Idoru) - Virtual celebrities and decentralized virtual worlds, Book #2 in Bridge
-  Trilogy
+📖 [Neuromancer](https://en.wikipedia.org/wiki/Neuromancer) - (80s) Defined the Cyberpunk genre and the term Cyberspace
+<br>
+📖 [Snow Crash](https://en.wikipedia.org/wiki/Snow_Crash) - (90s) Coined the term Metaverse as a successor to the
+Internet, author Neal Stephenson recently cofounded [Lamina1](https://www.lamina1.com/).
+<br>
+📖 [Ready Player One](https://en.wikipedia.org/wiki/Ready_Player_One) - (2011) Hit book that later became a Spielberg
+movie
+<br>
+📖 [Ready Player Two](https://www.amazon.com/Ready-Player-Two-Ernest-Cline/dp/1524761338) - (2020) Sequel to Ready
+Player One
+<br>
+📖 [Rainbows End](https://en.wikipedia.org/wiki/Rainbows_End) - (2006)  Increasingly digital/virtual world with
+ubiquitous computing
+<br>
+📖 [Idoru](https://en.wikipedia.org/wiki/Idoru) - Virtual celebrities and decentralized virtual worlds, Book #2 in Bridge
+Trilogy
+<br>
 
 ### Non-fiction
 
-- [The Spatial Web](https://www.amazon.com/Spatial-Web-connect-machines-transform/dp/0578562960/) - How web 3.0 will
-  connect humans, machines and AI to transform the world
-- [The Metaverse: And How it Will Revolutionize Everything](https://www.amazon.com/Metaverse-How-Will-Revolutionize-Everything/dp/1324092033) -
-  Upcoming book by Matthew Ball
+📖 [The Spatial Web](https://www.amazon.com/Spatial-Web-connect-machines-transform/dp/0578562960/) - How web 3.0 will
+connect humans, machines and AI to transform the world
+<br>
+📖 [The Metaverse: And How it Will Revolutionize Everything](https://www.amazon.com/Metaverse-How-Will-Revolutionize-Everything/dp/1324092033) -
+Upcoming book by Matthew Ball
 
 ---
 
 ## Media
 
+### Content Generation
+
+- [synthesia.io](https://www.synthesia.io/) - Turn boring docs, PowerPoints, or PDFs into engaging
+  training, how-to or product marketing videos.
+
 ### Movies
 
-- [The Matrix](https://www.imdb.com/title/tt0133093/) - When a beautiful stranger leads computer hacker Neo to a
-  forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil
-  cyber-intelligence.
-- [The Matrix Reloaded](https://www.imdb.com/title/tt0234215/) - Freedom fighters Neo, Trinity and Morpheus continue to
-  lead the revolt against the Machine Army, unleashing their arsenal of extraordinary skills and weaponry against the
-  systematic forces of repression and exploitation.
-- [The Matrix Revolutions](https://www.imdb.com/title/tt0242653/) - The human city of Zion defends itself against the
-  massive invasion of the machines as Neo fights to end the war at another front while also opposing the rogue Agent
-  Smith.
-- [The Matrix Resurrections](https://www.imdb.com/title/tt10838180/) - Return to a world of two realities: one, everyday
-  life; the other, what lies behind it. To find out if his reality is a construct, to truly know himself, Mr. Anderson
-  will have to choose to follow the white rabbit once more.
-- [The Thirteenth Floor](https://www.imdb.com/title/tt0139809/) - A computer scientist running a virtual reality
-  simulation of 1937 becomes the primary suspect when his colleague and mentor is murdered.
-- [eXistenZ](https://www.imdb.com/title/tt0120907) - A game designer on the run from assassins must play her latest
-  virtual reality creation with a marketing trainee to determine if the game has been damaged.
-- [Free Guy](https://www.imdb.com/title/tt6264654/) - A bank teller discovers that he's actually an NPC inside a brutal,
-  open world video game.
-- [Tron](https://www.imdb.com/title/tt0084827/) - A computer hacker is abducted into the digital world and forced to
-  participate in gladiatorial games where his only chance of escape is with the help of a heroic security program.
-- [Tron: Legacy](https://www.imdb.com/title/tt1104001/) - The son of a virtual world designer goes looking for his
-  father and ends up inside the digital world that his father designed. He meets his father's corrupted creation and a
-  unique ally who was born inside the digital world.
-- [Wreck-It Ralph](https://www.imdb.com/title/tt1772341/) - A video game villain wants to be a hero and sets out to
-  fulfill his dream, but his quest brings havoc to the whole arcade where he lives.
-- [Ralph Breaks the Internet](https://www.imdb.com/title/tt5848272/) - Six years after the events of "Wreck-It Ralph,"
-  Ralph and Vanellope, now friends, discover a wi-fi router in their arcade, leading them into a new adventure.
-- [Wreck-It Ralph 2](https://www.imdb.com/title/tt9144066/) - Based off Ralph Breaks the Internet, experience the
-  cooperative virtual reality adventure as you help Ralph and Venellope escape a security program who erases every type
-  of virus.
-- [Ready Player One](https://www.imdb.com/title/tt1677720/) - When the creator of a virtual reality called the OASIS
-  dies, he makes a posthumous challenge to all OASIS users to find his Easter Egg, which will give the finder his
-  fortune and control of his world.
-- [Black Mirror](https://www.imdb.com/title/tt2085059/) ([USS Callister](https://www.imdb.com/title/tt5710974/) & [San Junipero](https://www.imdb.com/title/tt4538072/)
-  in particular) - An anthology series exploring a twisted, high-tech multiverse where humanity's greatest innovations
-  and darkest instincts collide.
-- [Upload](https://www.imdb.com/title/tt7826376/) - A man is able to choose his own afterlife after his untimely death,
-  by having his consciousness uploaded into a virtual world. As he gets used to his new life and befriends his angel (
-  real world handler), questions about his death arise.
-- [Inception](https://www.imdb.com/title/tt1375666/) - A thief who steals corporate secrets through the use of
-  dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past
-  may doom the project and his team to disaster.
-- [Surrogates](https://www.imdb.com/title/tt0986263/) - Set in a futuristic world where humans live in isolation and
-  interact through surrogate robots, a cop is forced to leave his home for the first time in years in order to
-  investigate the murders of others' surrogates.
-- [Total Recall](https://www.imdb.com/title/tt1386703/) - A factory worker, Douglas Quaid, begins to suspect that he is
-  a spy after visiting Rekall - a company that provides its clients with implanted fake memories of a life they would
-  like to have led - goes wrong and he finds himself on the run.
+🎥[The Matrix](https://www.imdb.com/title/tt0133093/) - When a beautiful stranger leads computer hacker Neo to a
+forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil
+cyber-intelligence.
+<br>
+🎥[The Matrix Reloaded](https://www.imdb.com/title/tt0234215/) - Freedom fighters Neo, Trinity and Morpheus continue to
+lead the revolt against the Machine Army, unleashing their arsenal of extraordinary skills and weaponry against the
+systematic forces of repression and exploitation.
+<br>
+🎥[The Matrix Revolutions](https://www.imdb.com/title/tt0242653/) - The human city of Zion defends itself against the
+massive invasion of the machines as Neo fights to end the war at another front while also opposing the rogue Agent
+Smith.
+<br>
+🎥[The Matrix Resurrections](https://www.imdb.com/title/tt10838180/) - Return to a world of two realities: one, everyday
+life; the other, what lies behind it. To find out if his reality is a construct, to truly know himself, Mr. Anderson
+will have to choose to follow the white rabbit once more.
+<br>
+🎥[The Thirteenth Floor](https://www.imdb.com/title/tt0139809/) - A computer scientist running a virtual reality
+simulation of 1937 becomes the primary suspect when his colleague and mentor is murdered.
+<br>
+🎥[eXistenZ](https://www.imdb.com/title/tt0120907) - A game designer on the run from assassins must play her latest
+virtual reality creation with a marketing trainee to determine if the game has been damaged.
+<br>
+🎥[Free Guy](https://www.imdb.com/title/tt6264654/) - A bank teller discovers that he's actually an NPC inside a brutal,
+open world video game.
+<br>
+🎥[Tron](https://www.imdb.com/title/tt0084827/) - A computer hacker is abducted into the digital world and forced to
+participate in gladiatorial games where his only chance of escape is with the help of a heroic security program.
+<br>
+🎥[Tron: Legacy](https://www.imdb.com/title/tt1104001/) - The son of a virtual world designer goes looking for his
+father and ends up inside the digital world that his father designed. He meets his father's corrupted creation and a
+unique ally who was born inside the digital world.
+<br>
+🎥[Wreck-It Ralph](https://www.imdb.com/title/tt1772341/) - A video game villain wants to be a hero and sets out to
+fulfill his dream, but his quest brings havoc to the whole arcade where he lives.
+<br>
+🎥[Ralph Breaks the Internet](https://www.imdb.com/title/tt5848272/) - Six years after the events of "Wreck-It Ralph,"
+Ralph and Vanellope, now friends, discover a wi-fi router in their arcade, leading them into a new adventure.
+<br>
+🎥[Wreck-It Ralph 2](https://www.imdb.com/title/tt9144066/) - Based off Ralph Breaks the Internet, experience the
+cooperative virtual reality adventure as you help Ralph and Venellope escape a security program who erases every type
+of virus.
+<br>
+🎥[Ready Player One](https://www.imdb.com/title/tt1677720/) - When the creator of a virtual reality called the OASIS
+dies, he makes a posthumous challenge to all OASIS users to find his Easter Egg, which will give the finder his
+fortune and control of his world.
+<br>
+🎥[Black Mirror](https://www.imdb.com/title/tt2085059/) ([USS Callister](https://www.imdb.com/title/tt5710974/) & [San Junipero](https://www.imdb.com/title/tt4538072/)
+in particular) - An anthology series exploring a twisted, high-tech multiverse where humanity's greatest innovations
+and darkest instincts collide.
+<br>
+🎥[Upload](https://www.imdb.com/title/tt7826376/) - A man is able to choose his own afterlife after his untimely death,
+by having his consciousness uploaded into a virtual world. As he gets used to his new life and befriends his angel (
+real world handler), questions about his death arise.
+<br>
+🎥[Inception](https://www.imdb.com/title/tt1375666/) - A thief who steals corporate secrets through the use of
+dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past
+may doom the project and his team to disaster.
+<br>
+🎥[Surrogates](https://www.imdb.com/title/tt0986263/) - Set in a futuristic world where humans live in isolation and
+interact through surrogate robots, a cop is forced to leave his home for the first time in years in order to
+investigate the murders of others' surrogates.
+<br>
+🎥[Total Recall](https://www.imdb.com/title/tt1386703/) - A factory worker, Douglas Quaid, begins to suspect that he is
+a spy after visiting Rekall - a company that provides its clients with implanted fake memories of a life they would
+like to have led - goes wrong and he finds himself on the run.
 
 ### Articles and Blogs
 
