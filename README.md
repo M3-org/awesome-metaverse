@@ -28,6 +28,9 @@ issues, and comments. You can also reach us through [discord](https://discord.gg
     - [2D Platforms](#2d-platforms)
 - [Avatar Providers](#avatar-providers)
 - [Protocols & Standards](#protocols-and-standards)
+  - [Non-Fungible Tokens (NFTs)](#non-fungible-tokens)
+  - [Soulbound Tokens (SBTs)](#soulbound-tokens)
+- [Games & Virtual Worlds](#games--virtual-worlds)
 - [Books](#books)
   - [Science Fiction](#sci-fi)
   - [Non-fiction](#non-fiction)
@@ -54,7 +57,6 @@ issues, and comments. You can also reach us through [discord](https://discord.gg
 - [Awesome WebXR](https://github.com/msub2/awesome-webxr) - Compilation of links for WebXR demos, frameworks, editors
   and more
     - [Awesome WebXR 2](https://github.com/msurguy/awesome-webxr)
-- [Zesty Market](https://app.zesty.market/) - A marketplace for rentable NFT banner spaces in XR
 - [Web3XR](https://web3xr.com) - Site explaining the intersection of Web3 and WebXR technologies, WIP
 - [Glitch WebXR tutorials](https://glitch.com/webxr) - Editable templates and guides for making your own WebXR sites
 
@@ -117,8 +119,7 @@ Guide by Ada Rose Cannon.
 - [VRChat](https://vrchat.com) - Biggest social VR platform with UGC of worlds and avatars
     - [Awesome VRChat](https://github.com/madjin/awesome-vrchat) - One-stop shop for people interested in developing
       content for VRchat
-- [Roblox](https://www.sec.gov/Archives/edgar/data/1315098/000119312520298230/d87104ds1.htm) - Massive online
-  multiplayer UGC gaming platform
+
 - [Omniverse](https://developer.nvidia.com/nvidia-omniverse-platform) - Real-time simulation and collaboration platform
   for 3D production pipelines
 - [dot big bang](https://dotbigbang.com/social) - Web-based multiplayer UGC gaming platform with built-in tools and
@@ -126,7 +127,6 @@ Guide by Ada Rose Cannon.
 - [Helios](https://www.helios-vr.com/) - Unreal Engine based UGC worlds, avatars and gaming platform
 - [Horizon Worlds](https://youtu.be/Uvufun6xer8) - Meta (previously Facebook) announcement video of The Metaverse
 - [FrameVR](https://learn.framevr.io/) - No-code creation of browser based virtual worlds
-- [oncyber](https://oncyber.io/) - Easy platform to display NFTs in a virtual world, built on threejs
 - [Monaverse](https://www.mona.gallery/) - Mint and display 3D spaces in Unity webgl powered 3D worlds, VR support soon
 - [RP1](https://rp1.com/index.html) - An upcoming platform "that can synchronously connect hundreds of millions of users
   to one another in a real-time, persistent virtual world, without the need for sharding."
@@ -155,16 +155,33 @@ Guide by Ada Rose Cannon.
 
 ## Protocols and Standards
 
+- [Ethereum](https://ethereum.org/learn/) - Decentralized world computer
 - [Dat](https://dat-ecosystem.org/) - a peer-to-peer protocol
 - [IPFS](https://ipfs.io) - a peer-to-peer hypermedia protocol
 - [glTF](https://www.khronos.org/gltf/) - Runtime 3D asset delivery
 - [VRM](https://vrm.dev/en/) - File format for 3D humanoid avatars
-- [Ethereum](https://ethereum.org/learn/) - Decentralized world computer
 - [WebXR](https://immersive-web.github.io/webxr/) - Accessing VR/AR hardware on the web
 - [Open Metaverse Interoperability group (OMI)](https://omigroup.org) - Working group for open protocols / standards
 - [Metaverse Standards Forum](https://metaverse-standards.org/) - a new venue for cooperation between standards
   organizations and companies to foster the development of interoperability standards for an open and inclusive
   metaverse
+
+### Non-Fungible Tokens
+
+- [OpenSea](https://opensea.io/) - The largest NFT marketplace.
+- [Zesty Market](https://app.zesty.market/) - A marketplace for rentable NFT banner spaces in XR
+- [oncyber](https://oncyber.io/) - Easy platform to display NFTs in a virtual world, built on threejs
+
+### Soulbound Tokens
+
+---
+
+## Games & Virtual Worlds
+
+- [Roblox](https://www.sec.gov/Archives/edgar/data/1315098/000119312520298230/d87104ds1.htm) - Massive online
+  multiplayer UGC gaming platform
+- [Gala Games](https://app.gala.games/) - Through decentralization, players not only own their in-games items, but
+  they have a voice in how the Gala Games roadmap develops.
 
 ---
 
