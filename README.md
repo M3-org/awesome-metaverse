@@ -21,7 +21,7 @@ issues, and comments. You can also reach us through [discord](https://discord.gg
     - [Non-fiction](#non-fiction)
 - [Media](#media)
     - [Movies](#movies)
-- [Articles & Blogs](#articles-and-blogs)
+    - [Articles & Blogs](#articles-and-blogs)
 - [Crypto](#crypto)
 - [White Papers](#white-papers)
 - [Links](#links)
@@ -221,9 +221,7 @@ issues, and comments. You can also reach us through [discord](https://discord.gg
   a spy after visiting Rekall - a company that provides its clients with implanted fake memories of a life they would
   like to have led - goes wrong and he finds himself on the run.
 
----
-
-## Articles and Blogs
+### Articles and Blogs
 
 - [The Metaverse Primer](https://www.matthewball.vc/the-metaverse-primer) - 9 Part series from Matthew Ball
 - [Matthew Ball – The Future of Media: Movies, the Metaverse, and More](https://www.joincolossus.com/episodes/69430337/ball-the-future-of-media-movies-the-metaverse-and-more?tab=shownotes) -
