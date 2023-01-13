@@ -4,6 +4,12 @@ List of awesome projects and information resources about the [Metaverse](https:/
 there are many competing ideas about what the Metaverse is, feel free to leave feedback in the form of pull requests,
 issues, and comments. You can also reach us through [discord](https://discord.gg/m3org).
 
+### [Contents](#table-of-contents)
+
+### [Contributing](CONTRIBUTING.md)
+
+---
+
 - Elements marked with 🟢 are MIT-licensed.
 - Elements marked with ⚫ are not licensed.
 - Elements marked with 🟣 are under Mozilla Public License 2.0.
@@ -23,8 +29,8 @@ issues, and comments. You can also reach us through [discord](https://discord.gg
 - [Avatar Providers](#avatar-providers)
 - [Protocols & Standards](#protocols-and-standards)
 - [Books](#books)
-    - [Science Fiction](#sci-fi)
-    - [Non-fiction](#non-fiction)
+  - [Science Fiction](#sci-fi)
+  - [Non-fiction](#non-fiction)
 - [Media](#media)
   - [Content Generation](#content-generation)
   - [Movies](#movies)
