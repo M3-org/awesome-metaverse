@@ -28,8 +28,12 @@ issues, and comments. You can also reach us through [discord](https://discord.gg
     - [2D Platforms](#2d-platforms)
 - [Avatar Providers](#avatar-providers)
 - [Protocols & Standards](#protocols-and-standards)
+  - [Layer 1](#layer-1)
+  - [Layer 2](#layer-2)
+  - [File-Sharing & Content Delivery](#file-sharing--content-delivery)
   - [Non-Fungible Tokens (NFTs)](#non-fungible-tokens)
   - [Soulbound Tokens (SBTs)](#soulbound-tokens)
+  - [Others](#others)
 - [Games & Virtual Worlds](#games--virtual-worlds)
 - [Books](#books)
   - [Science Fiction](#sci-fi)
@@ -155,16 +159,27 @@ Guide by Ada Rose Cannon.
 
 ## Protocols and Standards
 
-- [Ethereum](https://ethereum.org/learn/) - Decentralized world computer
+### Layer 1
+
+- [Bitcoin](https://bitcoin.org/en/) - Bitcoin is an innovative payment network and a new kind of money.
+- [Ethereum](https://ethereum.org/learn/) - Ethereum is a technology that's home to digital money, global payments, and
+  applications.
+- [BNB Chain](https://www.bnbchain.org/en/) - The best-performing decentralized economy.
+  Ready for massive user access.
+
+### Layer 2
+
+- [Polygon](https://polygon.technology/) - Polygon is a decentralised Ethereum scaling platform that enables developers
+  to build scalable user-friendly dApps with low transaction fees without ever sacrificing on security.
+- [Optimism](https://www.optimism.io/) - Optimism is a low-cost and lightning-fast Ethereum L2 blockchain.
+- [Immutable X](https://www.immutable.com/) - Scale your game in hours with the leading Layer 2 for NFTs that’s fully
+  secured by Ethereum.
+
+### File-Sharing & Content Delivery
+
 - [Dat](https://dat-ecosystem.org/) - a peer-to-peer protocol
 - [IPFS](https://ipfs.io) - a peer-to-peer hypermedia protocol
-- [glTF](https://www.khronos.org/gltf/) - Runtime 3D asset delivery
-- [VRM](https://vrm.dev/en/) - File format for 3D humanoid avatars
-- [WebXR](https://immersive-web.github.io/webxr/) - Accessing VR/AR hardware on the web
-- [Open Metaverse Interoperability group (OMI)](https://omigroup.org) - Working group for open protocols / standards
-- [Metaverse Standards Forum](https://metaverse-standards.org/) - a new venue for cooperation between standards
-  organizations and companies to foster the development of interoperability standards for an open and inclusive
-  metaverse
+- [BTFS](https://www.btfs.io/#/) - BTFS provides global decentralized storage service with high reliability.
 
 ### Non-Fungible Tokens
 
@@ -174,6 +189,16 @@ Guide by Ada Rose Cannon.
 
 ### Soulbound Tokens
 
+### Others
+
+- [glTF](https://www.khronos.org/gltf/) - Runtime 3D asset delivery
+- [VRM](https://vrm.dev/en/) - File format for 3D humanoid avatars
+- [WebXR](https://immersive-web.github.io/webxr/) - Accessing VR/AR hardware on the web
+- [Open Metaverse Interoperability group (OMI)](https://omigroup.org) - Working group for open protocols / standards
+- [Metaverse Standards Forum](https://metaverse-standards.org/) - a new venue for cooperation between standards
+  organizations and companies to foster the development of interoperability standards for an open and inclusive
+  metaverse
+
 ---
 
 ## Games & Virtual Worlds
@@ -182,6 +207,7 @@ Guide by Ada Rose Cannon.
   multiplayer UGC gaming platform
 - [Gala Games](https://app.gala.games/) - Through decentralization, players not only own their in-games items, but
   they have a voice in how the Gala Games roadmap develops.
+- [Spider Tanks](https://www.spidertanks.game/) - The 1st Play-to-Earn E-Sport PVP.
 
 ---
 
@@ -214,6 +240,10 @@ connect humans, machines and AI to transform the world
 <br>
 📖 [The Metaverse: And How it Will Revolutionize Everything](https://www.amazon.com/Metaverse-How-Will-Revolutionize-Everything/dp/1324092033) -
 Upcoming book by Matthew Ball
+<br>
+📖 [Step Into the Metaverse: How the Immersive Internet Will Unlock a Trillion-Dollar Social Economy](https://www.amazon.com/Step-into-Metaverse-Immersive-Trillion-Dollar/dp/1119887577) -
+Mark van Rijmenam
+
 
 ---
 
