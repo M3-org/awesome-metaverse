@@ -20,6 +20,7 @@ issues, and comments. You can also reach us through [discord](https://discord.gg
     - [Science Fiction](#sci-fi)
     - [Non-fiction](#non-fiction)
 - [Media](#media)
+  - [Movies](#movies)
 - [Articles & Blogs](#articles-and-blogs)
 - [Crypto](#crypto)
 - [White Papers](#white-papers)
@@ -159,15 +160,42 @@ issues, and comments. You can also reach us through [discord](https://discord.gg
 
 ## Media
 
-- The Matrix
-- The Thirteenth Floor
-- Existenz
-- Free Guy
-- Tron
-- Wreck it Ralph 2
-- Ready Player One
-- Black Mirror (USS Callister & San Junipero in particular)
-- Upload
+## Media
+
+### Movies
+
+- [The Matrix](https://www.imdb.com/title/tt0133093/) - When a beautiful stranger leads computer hacker Neo to a
+  forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil
+  cyber-intelligence.
+- [The Matrix Reloaded](https://www.imdb.com/title/tt0234215/) - Freedom fighters Neo, Trinity and Morpheus continue to
+  lead the revolt against the Machine Army, unleashing their arsenal of extraordinary skills and weaponry against the
+  systematic forces of repression and exploitation.
+- [The Matrix Revolutions](https://www.imdb.com/title/tt0242653/) - The human city of Zion defends itself against the
+  massive invasion of the machines as Neo fights to end the war at another front while also opposing the rogue Agent
+  Smith.
+- [The Matrix Resurrections](https://www.imdb.com/title/tt10838180/) - Return to a world of two realities: one, everyday
+  life; the other, what lies behind it. To find out if his reality is a construct, to truly know himself, Mr. Anderson
+  will have to choose to follow the white rabbit once more.
+- [The Thirteenth Floor](https://www.imdb.com/title/tt0139809/) - A computer scientist running a virtual reality
+  simulation of 1937 becomes the primary suspect when his colleague and mentor is murdered.
+- [eXistenZ](https://www.imdb.com/title/tt0120907) - A game designer on the run from assassins must play her latest
+  virtual reality creation with a marketing trainee to determine if the game has been damaged.
+- [Free Guy](https://www.imdb.com/title/tt6264654/) - A bank teller discovers that he's actually an NPC inside a brutal,
+  open world video game.
+- [Tron](https://www.imdb.com/title/tt0084827/) - A computer hacker is abducted into the digital world and forced to
+  participate in gladiatorial games where his only chance of escape is with the help of a heroic security program.
+- [Tron: Legacy](https://www.imdb.com/title/tt1104001/) - The son of a virtual world designer goes looking for his
+  father and ends up inside the digital world that his father designed. He meets his father's corrupted creation and a
+  unique ally who was born inside the digital world.
+- [Wreck-It Ralph](https://www.imdb.com/title/tt1772341/) - A video game villain wants to be a hero and sets out to fulfill his dream, but his quest brings havoc to the whole arcade where he lives.
+- [Ralph Breaks the Internet](https://www.imdb.com/title/tt5848272/) - Six years after the events of "Wreck-It Ralph," Ralph and Vanellope, now friends, discover a wi-fi router in their arcade, leading them into a new adventure.
+- [Wreck-It Ralph 2](https://www.imdb.com/title/tt9144066/) - Based off Ralph Breaks the Internet, experience the cooperative virtual reality adventure as you help Ralph and Venellope escape a security program who erases every type of virus.
+- [Ready Player One](https://www.imdb.com/title/tt1677720/) - When the creator of a virtual reality called the OASIS dies, he makes a posthumous challenge to all OASIS users to find his Easter Egg, which will give the finder his fortune and control of his world.
+- [Black Mirror](https://www.imdb.com/title/tt2085059/) ([USS Callister](https://www.imdb.com/title/tt5710974/) & [San Junipero](https://www.imdb.com/title/tt4538072/) in particular) - An anthology series exploring a twisted, high-tech multiverse where humanity's greatest innovations and darkest instincts collide.
+- [Upload](https://www.imdb.com/title/tt7826376/) - A man is able to choose his own afterlife after his untimely death, by having his consciousness uploaded into a virtual world. As he gets used to his new life and befriends his angel (real world handler), questions about his death arise.
+- [Inception](https://www.imdb.com/title/tt1375666/) - A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.
+- [Surrogates](https://www.imdb.com/title/tt0986263/) - Set in a futuristic world where humans live in isolation and interact through surrogate robots, a cop is forced to leave his home for the first time in years in order to investigate the murders of others' surrogates.
+- [Total Recall](https://www.imdb.com/title/tt1386703/) - A factory worker, Douglas Quaid, begins to suspect that he is a spy after visiting Rekall - a company that provides its clients with implanted fake memories of a life they would like to have led - goes wrong and he finds himself on the run.
 
 ## Articles and Blogs
 
