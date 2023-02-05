@@ -4,23 +4,44 @@ List of awesome projects and information resources about the [Metaverse](https:/
 there are many competing ideas about what the Metaverse is, feel free to leave feedback in the form of pull requests,
 issues, and comments. You can also reach us through [discord](https://discord.gg/m3org).
 
+### [Contents](#table-of-contents)
+
+### [Contributing](CONTRIBUTING.md)
+
+---
+
+- Elements marked with 🟢 are MIT-licensed.
+- Elements marked with ⚫ are not licensed.
+- Elements marked with 🟣 are under Mozilla Public License 2.0.
+- Elements marked with 🟠 are under Apache 2.0 License.
+- Elements marked with 🔴 are commercial / custom license.
+
 ---
 
 ## Table of Contents
 
 - [WebXR](#webxr)
 - [Social VR](#social-vr)
-    - [Open-Source Frameworks](#open-source-frameworks)
-    - [Open-Source Tools](#open-source-tools)
-    - [Commercial Frameworks & Tools](#commercial-frameworks--tools)
+  - [Open-Source Frameworks](#open-source-frameworks)
+  - [Open-Source Tools](#open-source-tools)
+  - [Commercial Frameworks & Tools](#commercial-frameworks--tools)
     - [2D Platforms](#2d-platforms)
 - [Avatar Providers](#avatar-providers)
 - [Protocols & Standards](#protocols-and-standards)
+  - [Layer 1](#layer-1)
+  - [Layer 2](#layer-2)
+  - [File-Sharing & Content Delivery](#file-sharing--content-delivery)
+  - [Non-Fungible Tokens (NFTs)](#non-fungible-tokens)
+  - [Soulbound Tokens (SBTs)](#soulbound-tokens)
+  - [Others](#others)
+- [Games & Virtual Worlds](#games--virtual-worlds)
 - [Books](#books)
-    - [Science Fiction](#sci-fi)
-    - [Non-fiction](#non-fiction)
+  - [Science Fiction](#sci-fi)
+  - [Non-fiction](#non-fiction)
 - [Media](#media)
-- [Articles & Blogs](#articles-and-blogs)
+  - [Content Generation](#content-generation)
+  - [Movies](#movies)
+  - [Articles & Blogs](#articles-and-blogs)
 - [Crypto](#crypto)
 - [White Papers](#white-papers)
 - [Links](#links)
@@ -40,32 +61,45 @@ issues, and comments. You can also reach us through [discord](https://discord.gg
 - [Awesome WebXR](https://github.com/msub2/awesome-webxr) - Compilation of links for WebXR demos, frameworks, editors
   and more
     - [Awesome WebXR 2](https://github.com/msurguy/awesome-webxr)
-- [Zesty Market](https://app.zesty.market/) - A marketplace for rentable NFT banner spaces in XR
 - [Web3XR](https://web3xr.com) - Site explaining the intersection of Web3 and WebXR technologies, WIP
 - [Glitch WebXR tutorials](https://glitch.com/webxr) - Editable templates and guides for making your own WebXR sites
+
+---
 
 ## Social VR
 
 ### Open Source Frameworks
 
-- [JanusWeb](https://github.com/jbaicoianu/janusweb) - Web framework for building interconnected virtual reality
-  experiences
-    - [Janus Guide](https://janusvr.github.io/guide/#/) - Learn to build open source self-hosted virtual worlds
-      connected by portals
-- [a-frame](https://aframe.io/) - JS framework for building 3D/AR/VR experiences
-    - [Exokit Avatar Component](https://github.com/msub2/aframe-exokit-avatars) - Importing full IK avatars into aframe
-      webxr apps
-    - [Integrating Augmented Reality Objects into the Real World with Light and Shadows](https://medium.com/samsung-internet-dev/integrating-augmented-reality-objects-into-the-real-world-with-light-and-shadows-12123e7b1151) -
-      Guide by Ada Rose Cannon
-- [Hubs](https://hubs.mozilla.com/) - Multi-user virtual spaces in WebXR, made by Mozilla
-    - [Hubs Creator Labs](https://hubs.mozilla.com/labs/) - Inspiration, creativity and knowledge that transcends Hubs
-- ~~[High Fidelity](https://github.com/highfidelity)~~ - Open source VR software platform (Deprecated)
-- [Vircadia](https://vircadia.com) - Community maintained fork of High Fidelity
-- ~~[Tivoli Cloud](https://tivolicloud.com/)~~ - Open source fork of High Fidelity
-- [Decentraland](https://github.com/decentraland) - A blockchain-based virtual world (not VR yet)
-- [Webaverse](https://github.com/webaverse) - 100% open source web based metaverse / game engine
-- [XR3ngine](https://github.com/xr3ngine/xr3ngine) - Open source framework for building scalable realtime social apps
-- [Croquet](https://croquet.io/croquet-os/) - A new web-based operating system that runs on any device
+🟢 [JanusWeb](https://github.com/jbaicoianu/janusweb) - Web framework for building interconnected virtual reality
+experiences.
+<br>
+⚫ [Janus Guide](https://janusvr.github.io/guide/#/) - Learn to build open source self-hosted virtual worlds
+connected by portals.
+<br>
+🟢 [a-frame](https://aframe.io/) - JS framework for building 3D/AR/VR experiences.
+<br>
+⚫ [Exokit Avatar Component](https://github.com/msub2/aframe-exokit-avatars) - Importing full IK avatars into aframe
+webxr apps.
+<br>
+[Integrating Augmented Reality Objects into the Real World with Light and Shadows](https://medium.com/samsung-internet-dev/integrating-augmented-reality-objects-into-the-real-world-with-light-and-shadows-12123e7b1151) -
+Guide by Ada Rose Cannon.
+<br>
+🟣 [Hubs](https://hubs.mozilla.com/) - Multi-user virtual spaces in WebXR, made by Mozilla.
+<br>
+[Hubs Creator Labs](https://hubs.mozilla.com/labs/) - Inspiration, creativity and knowledge that transcends Hubs.
+<br>
+⚫ ~~[High Fidelity](https://github.com/highfidelity)~~ - Open source VR software platform. (Deprecated)
+<br>
+🟠 [Vircadia](https://vircadia.com) - Community maintained fork of High Fidelity.
+<br>
+⚫ ~~[Tivoli Cloud](https://tivolicloud.com/)~~ - Open source fork of High Fidelity.
+<br>
+🟠 [Decentraland](https://github.com/decentraland) - A blockchain-based virtual world (not VR yet).
+<br>
+🟢 [Webaverse](https://github.com/webaverse) - 100% open source web based metaverse / game engine.
+<br>
+🔴 [XR3ngine](https://github.com/xr3ngine/xr3ngine) - Open source framework for building scalable realtime social apps.
+🔴 [Croquet](https://croquet.io/croquet-os/) - A new web-based operating system that runs on any device.
 
 ### Open Source Tools
 
@@ -89,8 +123,7 @@ issues, and comments. You can also reach us through [discord](https://discord.gg
 - [VRChat](https://vrchat.com) - Biggest social VR platform with UGC of worlds and avatars
     - [Awesome VRChat](https://github.com/madjin/awesome-vrchat) - One-stop shop for people interested in developing
       content for VRchat
-- [Roblox](https://www.sec.gov/Archives/edgar/data/1315098/000119312520298230/d87104ds1.htm) - Massive online
-  multiplayer UGC gaming platform
+
 - [Omniverse](https://developer.nvidia.com/nvidia-omniverse-platform) - Real-time simulation and collaboration platform
   for 3D production pipelines
 - [dot big bang](https://dotbigbang.com/social) - Web-based multiplayer UGC gaming platform with built-in tools and
@@ -98,7 +131,6 @@ issues, and comments. You can also reach us through [discord](https://discord.gg
 - [Helios](https://www.helios-vr.com/) - Unreal Engine based UGC worlds, avatars and gaming platform
 - [Horizon Worlds](https://youtu.be/Uvufun6xer8) - Meta (previously Facebook) announcement video of The Metaverse
 - [FrameVR](https://learn.framevr.io/) - No-code creation of browser based virtual worlds
-- [oncyber](https://oncyber.io/) - Easy platform to display NFTs in a virtual world, built on threejs
 - [Monaverse](https://www.mona.gallery/) - Mint and display 3D spaces in Unity webgl powered 3D worlds, VR support soon
 - [RP1](https://rp1.com/index.html) - An upcoming platform "that can synchronously connect hundreds of millions of users
   to one another in a real-time, persistent virtual world, without the need for sharding."
@@ -113,6 +145,8 @@ issues, and comments. You can also reach us through [discord](https://discord.gg
 - [Work Adventure](https://workadventu.re) - collaborative virtual office web app presented as a 16-bit RPG video game,
   open source
 
+---
+
 ## Avatar Providers
 
 - [Ready Player Me](https://readyplayer.me/) - Cross-game Avatar Platform for the Metaverse
@@ -121,55 +155,174 @@ issues, and comments. You can also reach us through [discord](https://discord.gg
 - [Mixamo](https://www.mixamo.com/) - Easy tool to rig and animate characters, by Adobe
 - [Booth.pm](https://booth.pm/) - Indie marketplace that contains many 3D avatar / world assets
 
+---
+
 ## Protocols and Standards
+
+### Layer 1
+
+- [Bitcoin](https://bitcoin.org/en/) - Bitcoin is an innovative payment network and a new kind of money.
+- [Ethereum](https://ethereum.org/learn/) - Ethereum is a technology that's home to digital money, global payments, and
+  applications.
+- [BNB Chain](https://www.bnbchain.org/en/) - The best-performing decentralized economy.
+  Ready for massive user access.
+
+### Layer 2
+
+- [Polygon](https://polygon.technology/) - Polygon is a decentralised Ethereum scaling platform that enables developers
+  to build scalable user-friendly dApps with low transaction fees without ever sacrificing on security.
+- [Optimism](https://www.optimism.io/) - Optimism is a low-cost and lightning-fast Ethereum L2 blockchain.
+- [Immutable X](https://www.immutable.com/) - Scale your game in hours with the leading Layer 2 for NFTs that’s fully
+  secured by Ethereum.
+
+### File-Sharing & Content Delivery
 
 - [Dat](https://dat-ecosystem.org/) - a peer-to-peer protocol
 - [IPFS](https://ipfs.io) - a peer-to-peer hypermedia protocol
+- [BTFS](https://www.btfs.io/#/) - BTFS provides global decentralized storage service with high reliability.
+
+### Non-Fungible Tokens
+
+- [OpenSea](https://opensea.io/) - The largest NFT marketplace.
+- [Zesty Market](https://app.zesty.market/) - A marketplace for rentable NFT banner spaces in XR
+- [oncyber](https://oncyber.io/) - Easy platform to display NFTs in a virtual world, built on threejs
+
+### Soulbound Tokens
+
+### Others
+
 - [glTF](https://www.khronos.org/gltf/) - Runtime 3D asset delivery
 - [VRM](https://vrm.dev/en/) - File format for 3D humanoid avatars
-- [Ethereum](https://ethereum.org/learn/) - Decentralized world computer
 - [WebXR](https://immersive-web.github.io/webxr/) - Accessing VR/AR hardware on the web
 - [Open Metaverse Interoperability group (OMI)](https://omigroup.org) - Working group for open protocols / standards
 - [Metaverse Standards Forum](https://metaverse-standards.org/) - a new venue for cooperation between standards
   organizations and companies to foster the development of interoperability standards for an open and inclusive
   metaverse
 
+---
+
+## Games & Virtual Worlds
+
+- [Roblox](https://www.sec.gov/Archives/edgar/data/1315098/000119312520298230/d87104ds1.htm) - Massive online
+  multiplayer UGC gaming platform
+- [Gala Games](https://app.gala.games/) - Through decentralization, players not only own their in-games items, but
+  they have a voice in how the Gala Games roadmap develops.
+- [Spider Tanks](https://www.spidertanks.game/) - The 1st Play-to-Earn E-Sport PVP.
+
+---
+
 ## Books
 
 ### Sci-Fi
 
-- [Neuromancer](https://en.wikipedia.org/wiki/Neuromancer) - (80s) Defined the Cyberpunk genre and the term Cyberspace
-- [**Snow Crash**](https://en.wikipedia.org/wiki/Snow_Crash) - (90s) Coined the term Metaverse as a successor to the
-  Internet, author Neal Stephenson recently cofounded [Lamina1](https://www.lamina1.com/).
-- [Ready Player One](https://en.wikipedia.org/wiki/Ready_Player_One) - (2011) Hit book that later became a Spielberg
-  movie
-    - [Ready Player Two](https://www.amazon.com/Ready-Player-Two-Ernest-Cline/dp/1524761338) - (2020) Sequel to Ready
-      Player One
-- [Rainbows End](https://en.wikipedia.org/wiki/Rainbows_End) - (2006)  Increasingly digital/virtual world with
-  ubiquitous computing
-- [Idoru](https://en.wikipedia.org/wiki/Idoru) - Virtual celebrities and decentralized virtual worlds, Book #2 in Bridge
-  Trilogy
+📖 [Neuromancer](https://en.wikipedia.org/wiki/Neuromancer) - (80s) Defined the Cyberpunk genre and the term Cyberspace
+<br>
+📖 [Snow Crash](https://en.wikipedia.org/wiki/Snow_Crash) - (90s) Coined the term Metaverse as a successor to the
+Internet, author Neal Stephenson recently cofounded [Lamina1](https://www.lamina1.com/).
+<br>
+📖 [Ready Player One](https://en.wikipedia.org/wiki/Ready_Player_One) - (2011) Hit book that later became a Spielberg
+movie
+<br>
+📖 [Ready Player Two](https://www.amazon.com/Ready-Player-Two-Ernest-Cline/dp/1524761338) - (2020) Sequel to Ready
+Player One
+<br>
+📖 [Rainbows End](https://en.wikipedia.org/wiki/Rainbows_End) - (2006)  Increasingly digital/virtual world with
+ubiquitous computing
+<br>
+📖 [Idoru](https://en.wikipedia.org/wiki/Idoru) - Virtual celebrities and decentralized virtual worlds, Book #2 in Bridge
+Trilogy
+<br>
 
 ### Non-fiction
 
-- [The Spatial Web](https://www.amazon.com/Spatial-Web-connect-machines-transform/dp/0578562960/) - How web 3.0 will
-  connect humans, machines and AI to transform the world
-- [The Metaverse: And How it Will Revolutionize Everything](https://www.amazon.com/Metaverse-How-Will-Revolutionize-Everything/dp/1324092033) -
-  Upcoming book by Matthew Ball
+📖 [The Spatial Web](https://www.amazon.com/Spatial-Web-connect-machines-transform/dp/0578562960/) - How web 3.0 will
+connect humans, machines and AI to transform the world
+<br>
+📖 [The Metaverse: And How it Will Revolutionize Everything](https://www.amazon.com/Metaverse-How-Will-Revolutionize-Everything/dp/1324092033) -
+Upcoming book by Matthew Ball
+<br>
+📖 [Step Into the Metaverse: How the Immersive Internet Will Unlock a Trillion-Dollar Social Economy](https://www.amazon.com/Step-into-Metaverse-Immersive-Trillion-Dollar/dp/1119887577) -
+Mark van Rijmenam
+
+
+---
 
 ## Media
 
-- The Matrix
-- The Thirteenth Floor
-- Existenz
-- Free Guy
-- Tron
-- Wreck it Ralph 2
-- Ready Player One
-- Black Mirror (USS Callister & San Junipero in particular)
-- Upload
+### Content Generation
 
-## Articles and Blogs
+- [synthesia.io](https://www.synthesia.io/) - Turn boring docs, PowerPoints, or PDFs into engaging
+  training, how-to or product marketing videos.
+
+### Movies
+
+🎥[The Matrix](https://www.imdb.com/title/tt0133093/) - When a beautiful stranger leads computer hacker Neo to a
+forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil
+cyber-intelligence.
+<br>
+🎥[The Matrix Reloaded](https://www.imdb.com/title/tt0234215/) - Freedom fighters Neo, Trinity and Morpheus continue to
+lead the revolt against the Machine Army, unleashing their arsenal of extraordinary skills and weaponry against the
+systematic forces of repression and exploitation.
+<br>
+🎥[The Matrix Revolutions](https://www.imdb.com/title/tt0242653/) - The human city of Zion defends itself against the
+massive invasion of the machines as Neo fights to end the war at another front while also opposing the rogue Agent
+Smith.
+<br>
+🎥[The Matrix Resurrections](https://www.imdb.com/title/tt10838180/) - Return to a world of two realities: one, everyday
+life; the other, what lies behind it. To find out if his reality is a construct, to truly know himself, Mr. Anderson
+will have to choose to follow the white rabbit once more.
+<br>
+🎥[The Thirteenth Floor](https://www.imdb.com/title/tt0139809/) - A computer scientist running a virtual reality
+simulation of 1937 becomes the primary suspect when his colleague and mentor is murdered.
+<br>
+🎥[eXistenZ](https://www.imdb.com/title/tt0120907) - A game designer on the run from assassins must play her latest
+virtual reality creation with a marketing trainee to determine if the game has been damaged.
+<br>
+🎥[Free Guy](https://www.imdb.com/title/tt6264654/) - A bank teller discovers that he's actually an NPC inside a brutal,
+open world video game.
+<br>
+🎥[Tron](https://www.imdb.com/title/tt0084827/) - A computer hacker is abducted into the digital world and forced to
+participate in gladiatorial games where his only chance of escape is with the help of a heroic security program.
+<br>
+🎥[Tron: Legacy](https://www.imdb.com/title/tt1104001/) - The son of a virtual world designer goes looking for his
+father and ends up inside the digital world that his father designed. He meets his father's corrupted creation and a
+unique ally who was born inside the digital world.
+<br>
+🎥[Wreck-It Ralph](https://www.imdb.com/title/tt1772341/) - A video game villain wants to be a hero and sets out to
+fulfill his dream, but his quest brings havoc to the whole arcade where he lives.
+<br>
+🎥[Ralph Breaks the Internet](https://www.imdb.com/title/tt5848272/) - Six years after the events of "Wreck-It Ralph,"
+Ralph and Vanellope, now friends, discover a wi-fi router in their arcade, leading them into a new adventure.
+<br>
+🎥[Wreck-It Ralph 2](https://www.imdb.com/title/tt9144066/) - Based off Ralph Breaks the Internet, experience the
+cooperative virtual reality adventure as you help Ralph and Venellope escape a security program who erases every type
+of virus.
+<br>
+🎥[Ready Player One](https://www.imdb.com/title/tt1677720/) - When the creator of a virtual reality called the OASIS
+dies, he makes a posthumous challenge to all OASIS users to find his Easter Egg, which will give the finder his
+fortune and control of his world.
+<br>
+🎥[Black Mirror](https://www.imdb.com/title/tt2085059/) ([USS Callister](https://www.imdb.com/title/tt5710974/) & [San Junipero](https://www.imdb.com/title/tt4538072/)
+in particular) - An anthology series exploring a twisted, high-tech multiverse where humanity's greatest innovations
+and darkest instincts collide.
+<br>
+🎥[Upload](https://www.imdb.com/title/tt7826376/) - A man is able to choose his own afterlife after his untimely death,
+by having his consciousness uploaded into a virtual world. As he gets used to his new life and befriends his angel (
+real world handler), questions about his death arise.
+<br>
+🎥[Inception](https://www.imdb.com/title/tt1375666/) - A thief who steals corporate secrets through the use of
+dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past
+may doom the project and his team to disaster.
+<br>
+🎥[Surrogates](https://www.imdb.com/title/tt0986263/) - Set in a futuristic world where humans live in isolation and
+interact through surrogate robots, a cop is forced to leave his home for the first time in years in order to
+investigate the murders of others' surrogates.
+<br>
+🎥[Total Recall](https://www.imdb.com/title/tt1386703/) - A factory worker, Douglas Quaid, begins to suspect that he is
+a spy after visiting Rekall - a company that provides its clients with implanted fake memories of a life they would
+like to have led - goes wrong and he finds himself on the run.
+
+### Articles and Blogs
 
 - [The Metaverse Primer](https://www.matthewball.vc/the-metaverse-primer) - 9 Part series from Matthew Ball
 - [Matthew Ball – The Future of Media: Movies, the Metaverse, and More](https://www.joincolossus.com/episodes/69430337/ball-the-future-of-media-movies-the-metaverse-and-more?tab=shownotes) -
@@ -217,6 +370,8 @@ issues, and comments. You can also reach us through [discord](https://discord.gg
 - [How the Open Metaverse Will Transform Our Online Identities](https://thenewstack.io/how-the-open-metaverse-will-transform-our-online-identities/) -
   Interview with maintainer of this awesome list by Richard MacManus
 
+---
+
 ## Crypto
 
 - [Into the Void: Where Crypto Meets The Metaverse](https://twitter.com/pierskicks/status/1353420599368978432) - Piers
@@ -242,12 +397,16 @@ issues, and comments. You can also reach us through [discord](https://discord.gg
 - [Metaversal | Bankless](https://metaversal.banklesshq.com/) - a top newsletter about crypto and metaverse by William
   M. Peaster
 
+---
+
 ## White Papers
 
 - [Somnium Space Economy](https://somniumspace.com/files/Somnium%20Space%20Economy%20Paper.pdf)
 - [The Sandbox Game Whitepaper](https://installers.sandbox.game/The_Sandbox_Whitepaper_2020.pdf)
 - [Decentraland Whitepaper](https://decentraland.org/whitepaper.pdf)
 - [Webaverse Whitepaper](https://github.com/webaverse/whitepaper/blob/master/whitepaper.pdf)
+
+---
 
 ## Links
 
