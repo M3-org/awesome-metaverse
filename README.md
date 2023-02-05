@@ -10,14 +10,6 @@ issues, and comments. You can also reach us through [discord](https://discord.gg
 
 ---
 
-- Elements marked with 🟢 are MIT-licensed.
-- Elements marked with ⚫ are not licensed.
-- Elements marked with 🟣 are under Mozilla Public License 2.0.
-- Elements marked with 🟠 are under Apache 2.0 License.
-- Elements marked with 🔴 are commercial / custom license.
-
----
-
 ## Table of Contents
 
 - [WebXR](#webxr)
@@ -69,6 +61,15 @@ issues, and comments. You can also reach us through [discord](https://discord.gg
 ## Social VR
 
 ### Open Source Frameworks
+
+
+
+> - Elements marked with 🟢 are MIT-licensed.
+> - Elements marked with ⚫ are not licensed.
+> - Elements marked with 🟣 are under Mozilla Public License 2.0.
+> - Elements marked with 🟠 are under Apache 2.0 License.
+> - Elements marked with 🔴 are commercial / custom license.
+
 
 🟢 [JanusWeb](https://github.com/jbaicoianu/janusweb) - Web framework for building interconnected virtual reality
 experiences.
@@ -123,7 +124,6 @@ Guide by Ada Rose Cannon.
 - [VRChat](https://vrchat.com) - Biggest social VR platform with UGC of worlds and avatars
     - [Awesome VRChat](https://github.com/madjin/awesome-vrchat) - One-stop shop for people interested in developing
       content for VRchat
-
 - [Omniverse](https://developer.nvidia.com/nvidia-omniverse-platform) - Real-time simulation and collaboration platform
   for 3D production pipelines
 - [dot big bang](https://dotbigbang.com/social) - Web-based multiplayer UGC gaming platform with built-in tools and
@@ -134,7 +134,7 @@ Guide by Ada Rose Cannon.
 - [Monaverse](https://www.mona.gallery/) - Mint and display 3D spaces in Unity webgl powered 3D worlds, VR support soon
 - [RP1](https://rp1.com/index.html) - An upcoming platform "that can synchronously connect hundreds of millions of users
   to one another in a real-time, persistent virtual world, without the need for sharding."
-- [AltspaceVR](https://altvr.com/) - AltspaceVR is a leading platform for live events, artists, brands and businesses
+- ~~[AltspaceVR](https://altvr.com/)~~ - AltspaceVR is a leading platform for live events, artists, brands and businesses (RIP)
 - [Hyperfy](https://hyperfy.io/) - webxr enabled platform that lets you own and build anything you can imagine
 
 ### 2D Platforms
