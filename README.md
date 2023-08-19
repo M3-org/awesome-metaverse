@@ -279,7 +279,7 @@ issues, and comments. You can also reach us through [discord](https://discord.gg
   metaverse discussion by TrevorFSmith
 - [Raph Koster's Website](https://www.raphkoster.com/2007/10/10/interoperability/) - Industry veteran that has been
   working on virtual worlds and interop for decades
-- [xrdevlog](https://hackmd.io/@xr/book) - Metaverse interoperability projects and experiments from M3 / jin
+- [M3 dev logs](https://hackmd.io/@xr/book) - Metaverse interoperability projects and experiments from M3 / jin
   by [dankvr](https://twitter.com/dankvr)
 - [AngellXR](https://angellxr.com/) - A Metaverse Incubation Community championing interoperability and collaboration.
 - [XRShowcase](https://xrshowcase.xyz) - A fun collection of web-based XR experiences.
