@@ -2,7 +2,7 @@
 
 List of awesome projects and information resources about the [Metaverse](https://en.wikipedia.org/wiki/Metaverse). Since
 there are many competing ideas about what the Metaverse is, feel free to leave feedback in the form of pull requests,
-issues, and comments. You can also reach us through [discord](https://discord.gg/m3org).
+issues, and comments. You can also reach us through [discord](https://discord.gg/m3-org).
 
 ---
 
