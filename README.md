@@ -69,7 +69,7 @@ issues, and comments. You can also reach us through [discord](https://discord.gg
 - [Third Room](https://thirdroom.io/preview) - Open, decentralised, immersive worlds built on [Matrix](https://matrix.org/) protocol
 - [Croquet](https://croquet.io/croquet-os/) - A new web-based operating system that runs on any device
 - [Three Object Viewer (3OV)](https://3ov.xyz) - Open Source WordPress plugin with WebXR and AI integrations
-- [The Wired](https://www.thewired.space/) - Open source web-based metaverse platform that supoprts VRM + glTF
+- [Unavi](https://github.com/unavi-xyz) - Open source web-based metaverse platform that supoprts VRM + glTF
 
 ### Open Source Tools
 
