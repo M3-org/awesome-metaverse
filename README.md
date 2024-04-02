@@ -69,7 +69,7 @@ issues, and comments. You can also reach us through [discord](https://m3org.com/
 - [Third Room](https://thirdroom.io/preview) - Open, decentralised, immersive worlds built on [Matrix](https://matrix.org/) protocol
 - [Croquet](https://croquet.io/croquet-os/) - A new web-based operating system that runs on any device
 - [Three Object Viewer (3OV)](https://3ov.xyz) - Open Source WordPress plugin with WebXR and AI integrations
-- [Unavi](https://github.com/unavi-xyz) - Open source web-based metaverse platform that supoprts VRM + glTF
+- [Unavi](https://github.com/unavi-xyz) - Open source web-based metaverse platform that supports VRM + glTF
 
 ### Open Source Tools
 
@@ -231,7 +231,7 @@ issues, and comments. You can also reach us through [discord](https://m3org.com/
   Look into NFT Value from Interoperable Utility
 - [Interoperability in the Blockchain Gaming World](https://dclplazas.com/interoperability-blockchain-gaming/) - Ideas
   about connecting blockchain based virtual worlds
-- [The Virtual Economy](https://atelier.net/virtual-economy/) - Stunning wbesite presentation about the intersection of
+- [The Virtual Economy](https://atelier.net/virtual-economy/) - Stunning website presentation about the intersection of
   crypto and virtual worlds
 - [Zima Red](https://andrewsteinwold.substack.com/) - NFTs, Virtual Worlds, Blockchain Games
 - [NFT Canon](https://a16z.com/2021/04/02/nfts-readings-resources/) - Go-to resource curated by a16z about NFTs
