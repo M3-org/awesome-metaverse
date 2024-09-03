@@ -57,8 +57,9 @@ issues, and comments. You can also reach us through [discord](https://m3org.com/
       webxr apps
     - [Integrating Augmented Reality Objects into the Real World with Light and Shadows](https://medium.com/samsung-internet-dev/integrating-augmented-reality-objects-into-the-real-world-with-light-and-shadows-12123e7b1151) -
       Guide by Ada Rose Cannon
-- [Hubs](https://hubs.mozilla.com/) - Multi-user virtual spaces in WebXR, made by Mozilla
-    - [Hubs Creator Labs](https://hubs.mozilla.com/labs/) - Inspiration, creativity and knowledge that transcends Hubs
+- ~~[Hubs](https://hubs.mozilla.com/)~~ - Multi-user virtual spaces in WebXR, made by Mozilla (Sunset May 31, 2024, code donated to Hubs Foundation)
+    - ~~[Hubs Creator Labs](https://hubs.mozilla.com/labs/)~~ - Inspiration, creativity and knowledge that transcends Hubs
+- [Hubs Foundation](https://hubsfoundation.org) Created as a non-profit to provide Hubs for self-hosting
 - ~~[High Fidelity](https://github.com/highfidelity)~~ - Open source VR software platform (Deprecated)
 - [Vircadia](https://vircadia.com) - Community maintained fork of High Fidelity
 - ~~[Tivoli Cloud](https://tivolicloud.com/)~~ - Open source fork of High Fidelity
