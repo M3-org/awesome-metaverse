@@ -66,7 +66,7 @@ issues, and comments. You can also reach us through [discord](https://m3org.com/
 - [Overte](https://overte.org/) - community maintained open source fork of High Fidelity with VR support
 - [Decentraland](https://github.com/decentraland) - A blockchain-based virtual world (not VR yet)
 - [Webaverse](https://github.com/webaverse) - 100% open source web based metaverse / game engine
-- [XR3ngine](https://github.com/xr3ngine/xr3ngine) - Open source framework for building scalable realtime social apps
+- [Ethereal Engine](https://github.com/EtherealEngine/etherealengine) - Open source framework for building scalable realtime social apps
 - [Third Room](https://thirdroom.io/preview) - Open, decentralised, immersive worlds built on [Matrix](https://matrix.org/) protocol
 - [Croquet](https://croquet.io/croquet-os/) - A new web-based operating system that runs on any device
 - [Three Object Viewer (3OV)](https://3ov.xyz) - Open Source WordPress plugin with WebXR and AI integrations
