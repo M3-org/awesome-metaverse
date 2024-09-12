@@ -125,6 +125,7 @@ issues, and comments. You can also reach us through [discord](https://m3org.com/
 - [Cryptoavatars](https://cryptoavatars.io/) - Unique VRM avatars on the Ethereum blockchain
 - [Mixamo](https://www.mixamo.com/) - Easy tool to rig and animate characters, by Adobe
 - [Booth.pm](https://booth.pm/) - Indie marketplace that contains many 3D avatar / world assets
+- [Animo](https://getanimo.io/) - Use your avatar for vtubing 
 
 ## Protocols and Standards
 
