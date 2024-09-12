@@ -139,6 +139,12 @@ issues, and comments. You can also reach us through [discord](https://m3org.com/
   organizations and companies to foster the development of interoperability standards for an open and inclusive
   metaverse
 
+## Tools 
+
+**Analytics, Statistics**
+
+- [Voxalytics](https://github.com/ymyke/voxalytics) - collection of Jupyter notebooks to analyze various aspects around Cryptovoxels
+
 ## Books
 
 ### Sci-Fi
