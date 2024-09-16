@@ -257,6 +257,7 @@ issues, and comments. You can also reach us through [discord](https://m3org.com/
 ## Links
 
 - [**M3-org Research**](https://github.com/M3-org/research) - Community for builders and makers of the open metaverse
+- [Metaverse Data Aggregation & Analytics Resources](https://landindex.io) - Dashboards of virtual land analytics for Otherdeed for Otherside, The Sandbox, Decentraland, other leading virtual worlds.
 - [urn-namespaces](https://github.com/common-metaverse/urn-namespaces) - A common identifier for assets across the
   metaverse
 - [Anarchy Arcade](http://anarchyarcade.com/) - Advanced 3D desktop and shortcut launcher built on Source engine
