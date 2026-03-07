@@ -286,3 +286,4 @@ issues, and comments. You can also reach us through [discord](https://m3org.com/
 - [XRShowcase](https://xrshowcase.xyz) - A fun collection of web-based XR experiences.
 - [The Design of Virtual and Augmented Reality](https://aliheston.gitbook.io/the-design-of-virtual-and-augmented-reality/) -
   Writeups by Alexandria Heston
+- [AR VR Jobs](https://www.arvrjobs.dev) - A job board dedicated to augmented reality and virtual reality positions
