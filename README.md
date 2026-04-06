@@ -6,6 +6,7 @@ issues, and comments. You can also reach us through [discord](https://m3org.com/
 
 ---
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for metaverse development workflow orchestration, automated virtual world management, and multi-agent coordination. MIT licensed.
 ## Table of Contents
 
 - [WebXR](#webxr)
