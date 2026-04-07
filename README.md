@@ -284,5 +284,6 @@ issues, and comments. You can also reach us through [discord](https://m3org.com/
   by [dankvr](https://twitter.com/dankvr)
 - [AngellXR](https://angellxr.com/) - A Metaverse Incubation Community championing interoperability and collaboration.
 - [XRShowcase](https://xrshowcase.xyz) - A fun collection of web-based XR experiences.
+- [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw
 - [The Design of Virtual and Augmented Reality](https://aliheston.gitbook.io/the-design-of-virtual-and-augmented-reality/) -
   Writeups by Alexandria Heston
