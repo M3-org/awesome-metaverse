@@ -246,6 +246,7 @@ issues, and comments. You can also reach us through [discord](https://m3org.com/
   on what distinguishes virtual worlds from an open metaverse
 - [Metaversal | Bankless](https://metaversal.banklesshq.com/) - a top newsletter about crypto and metaverse by William
   M. Peaster
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for spatial/metaverse AI agents on Solana. Verify agent wallet identity before x402 paid 3D asset APIs or AR content APIs. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 ## White Papers
 
